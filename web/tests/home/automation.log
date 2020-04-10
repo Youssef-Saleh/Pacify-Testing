@@ -1,0 +1,1434 @@
+04/08/2020 08:04:50 AM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 08:04:50 AM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 08:04:53 AM - helppage - INFO: Element not found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[4]/div/div/a and  locatorType: xpath
+04/08/2020 08:04:53 AM - helppage - INFO: Element not found
+04/08/2020 08:04:56 AM - helppage - INFO: Element not found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 08:04:56 AM - helppage - INFO: Element not found
+04/08/2020 08:04:59 AM - helppage - INFO: Element not found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[1]/div/div/a and  locatorType: xpath
+04/08/2020 08:04:59 AM - helppage - INFO: Element not found
+04/08/2020 08:05:02 AM - helppage - INFO: Element not found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[2]/div/div/a and  locatorType: xpath
+04/08/2020 08:05:02 AM - helppage - INFO: Element not found
+04/08/2020 08:05:05 AM - helppage - INFO: Element not found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[3]/div/div/a and  locatorType: xpath
+04/08/2020 08:05:05 AM - helppage - INFO: Element not found
+04/08/2020 08:05:05 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + making playlist is invalid
+04/08/2020 08:05:06 AM - TestStatus - INFO: Screenshot save to directory: C:\Users\Eslam\PycharmProjects\web\web\base\../screenshots/making playlist is invalid.1586325905658.png
+04/08/2020 08:05:06 AM - TestStatus - ERROR: make playlist ### TEST FAILED
+04/08/2020 08:07:40 AM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 08:07:40 AM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 08:07:43 AM - helppage - INFO: Element not found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[4]/div/div/a and  locatorType: xpath
+04/08/2020 08:07:43 AM - helppage - INFO: Element not found
+04/08/2020 08:07:46 AM - helppage - INFO: Element not found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 08:07:46 AM - helppage - INFO: Element not found
+04/08/2020 08:07:46 AM - helppage - INFO: Element found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[1]/div/button and  locatorType: xpath
+04/08/2020 08:07:46 AM - helppage - INFO: Element Found
+04/08/2020 08:07:49 AM - helppage - INFO: Element not found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[2]/div/div/a and  locatorType: xpath
+04/08/2020 08:07:49 AM - helppage - INFO: Element not found
+04/08/2020 08:07:52 AM - helppage - INFO: Element not found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[3]/div/div/a and  locatorType: xpath
+04/08/2020 08:07:52 AM - helppage - INFO: Element not found
+04/08/2020 08:07:52 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + making playlist is invalid
+04/08/2020 08:07:53 AM - TestStatus - INFO: Screenshot save to directory: C:\Users\Eslam\PycharmProjects\web\web\base\../screenshots/making playlist is invalid.1586326072515.png
+04/08/2020 08:07:53 AM - TestStatus - ERROR: make playlist ### TEST FAILED
+04/08/2020 08:15:48 AM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 08:15:48 AM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 08:15:48 AM - helppage - INFO: Element found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[4]/div/button and  locatorType: xpath
+04/08/2020 08:15:48 AM - helppage - INFO: Element Found
+04/08/2020 08:15:48 AM - helppage - INFO: Element found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[5]/div/button and  locatorType: xpath
+04/08/2020 08:15:48 AM - helppage - INFO: Element Found
+04/08/2020 08:15:48 AM - helppage - INFO: Element found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[1]/div/button and  locatorType: xpath
+04/08/2020 08:15:48 AM - helppage - INFO: Element Found
+04/08/2020 08:15:48 AM - helppage - INFO: Element found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[2]/div/button and  locatorType: xpath
+04/08/2020 08:15:48 AM - helppage - INFO: Element Found
+04/08/2020 08:15:48 AM - helppage - INFO: Element found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[3]/div/button and  locatorType: xpath
+04/08/2020 08:15:48 AM - helppage - INFO: Element Found
+04/08/2020 08:15:48 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + making playlist is valid
+04/08/2020 08:15:48 AM - TestStatus - INFO: make playlist ### TEST SUCCESSFUL
+04/08/2020 08:15:48 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + search is invalid
+04/08/2020 08:15:48 AM - TestStatus - INFO: search ### TEST SUCCESSFUL
+04/08/2020 08:15:48 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + listen offline is invalid
+04/08/2020 08:15:48 AM - TestStatus - INFO: listen offline ### TEST SUCCESSFUL
+04/08/2020 08:15:48 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + spotify connect is invalid
+04/08/2020 08:15:48 AM - TestStatus - INFO: spotify connect ### TEST SUCCESSFUL
+04/08/2020 08:15:48 AM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + spotify on chrome is invalid
+04/08/2020 08:15:48 AM - TestStatus - INFO: spotify on chrome ### TEST SUCCESSFUL
+04/08/2020 08:15:48 AM - helppage - INFO: Element found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[4]/div/button and  locatorType: xpath
+04/08/2020 08:15:51 AM - helppage - INFO: Cannot click on the element with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[4]/div/button locatorType: xpath
+04/08/2020 06:29:52 PM - homepage - INFO: Element not found with locator: Sign up and  locatorType: link
+04/08/2020 06:29:52 PM - homepage - INFO: Cannot click on the element with locator: Sign up locatorType: link
+04/08/2020 06:29:53 PM - homepage - INFO: Element not found with locator: Help and  locatorType: link
+04/08/2020 06:29:53 PM - homepage - INFO: Cannot click on the element with locator: Help locatorType: link
+04/08/2020 06:32:03 PM - signuppage - INFO: Element not found with locator: Sign up and  locatorType: link
+04/08/2020 06:32:03 PM - signuppage - INFO: Cannot click on the element with locator: Sign up locatorType: link
+04/08/2020 06:32:06 PM - signuppage - INFO: Element not found with locator: register-email and  locatorType: id
+04/08/2020 06:32:09 PM - signuppage - INFO: Element not found with locator: register-email and  locatorType: id
+04/08/2020 06:32:12 PM - signuppage - INFO: Element not found with locator: register-email and  locatorType: id
+04/08/2020 06:32:15 PM - signuppage - INFO: Element not found with locator: register-email and  locatorType: id
+04/08/2020 06:32:18 PM - signuppage - INFO: Element not found with locator: register-email and  locatorType: id
+04/08/2020 06:32:21 PM - signuppage - INFO: Element not found with locator: register-email and  locatorType: id
+04/08/2020 06:32:24 PM - signuppage - INFO: Element not found with locator: register-email and  locatorType: id
+04/08/2020 06:32:27 PM - signuppage - INFO: Element not found with locator: register-email and  locatorType: id
+04/08/2020 06:32:30 PM - signuppage - INFO: Element not found with locator: register-email and  locatorType: id
+04/08/2020 06:32:33 PM - signuppage_f - INFO: Element not found with locator: select-button-signup-fb and  locatorType: id
+04/08/2020 06:32:33 PM - signuppage_f - INFO: Cannot click on the element with locator: select-button-signup-fb locatorType: id
+04/08/2020 06:32:33 PM - signuppage_f - INFO: Locator type class_name not correct/supported
+04/08/2020 06:32:33 PM - signuppage_f - INFO: Element not found with locator: svelte-kdyqkb and  locatorType: class_name
+04/08/2020 06:32:33 PM - signuppage_f - INFO: Element not found
+04/08/2020 06:32:36 PM - signuppage_f - INFO: Element not found with locator: email and  locatorType: id
+04/08/2020 06:32:36 PM - signuppage_f - INFO: Cannot send data on the element with locator: email locatorType: id
+04/08/2020 06:32:39 PM - signuppage_f - INFO: Element not found with locator: pass and  locatorType: id
+04/08/2020 06:32:39 PM - signuppage_f - INFO: Cannot send data on the element with locator: pass locatorType: id
+04/08/2020 06:32:42 PM - signuppage_f - INFO: Element not found with locator: login and  locatorType: name
+04/08/2020 06:32:42 PM - signuppage_f - INFO: Cannot click on the element with locator: login locatorType: name
+04/08/2020 06:32:50 PM - signuppage_f - INFO: Element not found with locator: svelte-kdyqkb and  locatorType: class
+04/08/2020 06:32:50 PM - signuppage_f - INFO: Cannot click on the element with locator: svelte-kdyqkb locatorType: class
+04/08/2020 06:32:54 PM - signuppage_f - INFO: Element not found with locator: Log Out and  locatorType: link
+04/08/2020 06:32:54 PM - signuppage_f - INFO: Cannot click on the element with locator: Log Out locatorType: link
+04/08/2020 06:35:13 PM - signuppage - INFO: Element found with locator: Sign up and  locatorType: link
+04/08/2020 06:35:13 PM - signuppage - INFO: Clicked on element with locator: Sign up locatorType: link
+04/08/2020 06:35:14 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 06:35:15 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 06:35:15 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 06:35:16 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 06:35:16 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 06:35:16 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 06:35:16 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 06:35:16 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 06:35:16 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 06:35:16 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 06:35:17 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 06:35:17 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 06:35:17 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 06:35:17 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 06:35:17 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 06:35:17 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 06:35:17 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 06:35:18 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 06:35:18 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 06:35:18 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 06:35:18 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 06:35:18 PM - signuppage - INFO: Element Found
+04/08/2020 06:35:18 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 06:35:18 PM - TestStatus - INFO: test_blank_confirm_email_signup ### TEST SUCCESSFUL
+04/08/2020 06:35:18 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 06:35:18 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 06:35:19 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 06:35:19 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 06:35:19 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 06:35:19 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 06:35:19 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 06:35:19 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 06:35:19 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 06:35:20 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 06:35:20 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 06:35:20 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 06:35:20 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 06:35:20 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 06:35:20 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 06:35:20 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 06:35:20 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 06:35:20 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 06:35:20 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 06:35:21 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 06:35:21 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 06:35:21 PM - signuppage - INFO: Element Found
+04/08/2020 06:35:21 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 06:35:21 PM - TestStatus - INFO: test_blank_display_signup ### TEST SUCCESSFUL
+04/08/2020 06:35:21 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 06:35:21 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 06:35:21 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 06:35:21 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 06:35:21 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 06:35:21 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 06:35:21 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 06:35:21 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 06:35:21 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 06:35:22 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 06:35:22 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 06:35:22 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 06:35:22 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 06:35:22 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 06:35:22 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 06:35:22 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 06:35:22 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 06:35:23 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 06:35:28 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 06:37:54 PM - homepage - INFO: Element not found with locator: Sign up and  locatorType: link
+04/08/2020 06:38:18 PM - homepage - INFO: Cannot click on the element with locator: Sign up locatorType: link
+04/08/2020 06:41:05 PM - homepage - INFO: Element not found with locator: Sign up and  locatorType: link
+04/08/2020 06:41:05 PM - homepage - INFO: Cannot click on the element with locator: Sign up locatorType: link
+04/08/2020 06:42:09 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 06:42:09 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 06:42:12 PM - helppage - INFO: Element not found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[4]/div/button and  locatorType: xpath
+04/08/2020 06:42:12 PM - helppage - INFO: Element not found
+04/08/2020 06:42:15 PM - helppage - INFO: Element not found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[5]/div/button and  locatorType: xpath
+04/08/2020 06:42:15 PM - helppage - INFO: Element not found
+04/08/2020 06:42:18 PM - helppage - INFO: Element not found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[1]/div/button and  locatorType: xpath
+04/08/2020 06:42:18 PM - helppage - INFO: Element not found
+04/08/2020 06:42:22 PM - helppage - INFO: Element not found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[2]/div/button and  locatorType: xpath
+04/08/2020 06:42:22 PM - helppage - INFO: Element not found
+04/08/2020 06:42:25 PM - helppage - INFO: Element not found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[3]/div/button and  locatorType: xpath
+04/08/2020 06:42:25 PM - helppage - INFO: Element not found
+04/08/2020 06:42:25 PM - TestStatus - ERROR: ### VERIFICATION FAILED :: + making playlist is invalid
+04/08/2020 06:42:39 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+04/08/2020 06:42:39 PM - TestStatus - ERROR: make playlist ### TEST FAILED
+04/08/2020 06:46:20 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 06:46:21 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 06:46:25 PM - helppage - INFO: Element not found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[4]/div/button and  locatorType: xpath
+04/08/2020 06:46:25 PM - helppage - INFO: Element not found
+04/08/2020 06:46:28 PM - helppage - INFO: Element not found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[5]/div/button and  locatorType: xpath
+04/08/2020 06:46:28 PM - helppage - INFO: Element not found
+04/08/2020 06:46:32 PM - helppage - INFO: Element not found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[1]/div/button and  locatorType: xpath
+04/08/2020 06:46:32 PM - helppage - INFO: Element not found
+04/08/2020 06:46:35 PM - helppage - INFO: Element not found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[2]/div/button and  locatorType: xpath
+04/08/2020 06:46:35 PM - helppage - INFO: Element not found
+04/08/2020 06:46:38 PM - helppage - INFO: Element not found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[3]/div/button and  locatorType: xpath
+04/08/2020 06:46:38 PM - helppage - INFO: Element not found
+04/08/2020 06:46:41 PM - helppage - INFO: Element not found with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[3]/div/button and  locatorType: xpath
+04/08/2020 06:46:41 PM - helppage - INFO: Cannot click on the element with locator: /html/body/div[2]/div/section[2]/div/div[2]/div[1]/div[3]/div/button locatorType: xpath
+04/08/2020 06:49:33 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 06:49:33 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 07:06:23 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 07:06:24 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 07:06:25 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[4]/div/div/a and  locatorType: xpath
+04/08/2020 07:06:25 PM - helppage - INFO: Element Found
+04/08/2020 07:06:25 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 07:06:25 PM - helppage - INFO: Element Found
+04/08/2020 07:06:25 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[1]/div/div/a and  locatorType: xpath
+04/08/2020 07:06:25 PM - helppage - INFO: Element Found
+04/08/2020 07:06:25 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[2]/div/div/a and  locatorType: xpath
+04/08/2020 07:06:25 PM - helppage - INFO: Element Found
+04/08/2020 07:06:25 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[3]/div/div/a and  locatorType: xpath
+04/08/2020 07:06:25 PM - helppage - INFO: Element Found
+04/08/2020 07:06:25 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[4]/div/div/a and  locatorType: xpath
+04/08/2020 07:06:28 PM - helppage - INFO: Cannot click on the element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[4]/div/div/a locatorType: xpath
+04/08/2020 07:20:33 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 07:20:34 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 07:20:35 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] and  locatorType: xpath
+04/08/2020 07:20:35 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] locatorType: xpath
+04/08/2020 07:20:35 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 07:20:35 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a locatorType: xpath
+04/08/2020 07:44:03 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 07:44:03 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 07:44:05 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] and  locatorType: xpath
+04/08/2020 07:44:05 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] locatorType: xpath
+04/08/2020 07:44:05 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 07:44:05 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a locatorType: xpath
+04/08/2020 07:44:08 PM - helppage - INFO: Element not found with locator: /html/body/div/div[7]/div[3]/button and  locatorType: xpath
+04/08/2020 07:44:08 PM - helppage - INFO: Cannot click on the element with locator: /html/body/div/div[7]/div[3]/button locatorType: xpath
+04/08/2020 07:45:14 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 07:45:14 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 07:45:16 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] and  locatorType: xpath
+04/08/2020 07:45:16 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] locatorType: xpath
+04/08/2020 07:45:16 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 07:45:16 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a locatorType: xpath
+04/08/2020 07:45:19 PM - helppage - INFO: Element not found with locator: /html/body/div/div[7]/div[3]/button and  locatorType: xpath
+04/08/2020 07:45:19 PM - helppage - INFO: Cannot click on the element with locator: /html/body/div/div[7]/div[3]/button locatorType: xpath
+04/08/2020 07:46:34 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 07:46:34 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 07:46:35 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] and  locatorType: xpath
+04/08/2020 07:46:35 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] locatorType: xpath
+04/08/2020 07:46:35 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 07:46:36 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a locatorType: xpath
+04/08/2020 07:46:40 PM - helppage - INFO: Element not found with locator: /html/body/div/div[7]/div[3]/button and  locatorType: xpath
+04/08/2020 07:46:40 PM - helppage - INFO: Cannot click on the element with locator: /html/body/div/div[7]/div[3]/button locatorType: xpath
+04/08/2020 08:20:02 PM - signuppage - INFO: Element found with locator: Sign up and  locatorType: link
+04/08/2020 08:20:02 PM - signuppage - INFO: Clicked on element with locator: Sign up locatorType: link
+04/08/2020 08:20:03 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:04 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:04 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:04 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:04 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:04 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:04 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:04 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:20:04 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:04 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:20:04 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:04 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:20:04 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:04 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:20:04 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:05 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:20:05 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:05 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:20:05 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:20:05 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:20:05 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:20:05 PM - signuppage - INFO: Element Found
+04/08/2020 08:20:05 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:20:05 PM - TestStatus - INFO: test_blank_confirm_email_signup ### TEST SUCCESSFUL
+04/08/2020 08:20:05 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:05 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:05 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:05 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:05 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:05 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:05 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:05 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:20:05 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:05 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:20:05 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:20:06 PM - signuppage - INFO: Element Found
+04/08/2020 08:20:06 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:20:06 PM - TestStatus - INFO: test_blank_display_signup ### TEST SUCCESSFUL
+04/08/2020 08:20:06 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:06 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:20:07 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:07 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:20:07 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:20:07 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:20:07 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:20:07 PM - signuppage - INFO: Element Found
+04/08/2020 08:20:07 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:20:07 PM - TestStatus - INFO: test_blank_email_signup ### TEST SUCCESSFUL
+04/08/2020 08:20:07 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:07 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:07 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:07 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:07 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:07 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:07 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:07 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:20:07 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:07 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:20:07 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:07 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:20:07 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:20:08 PM - signuppage - INFO: Element Found
+04/08/2020 08:20:08 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:20:08 PM - TestStatus - INFO: test_blank_gender_signup ### TEST SUCCESSFUL
+04/08/2020 08:20:08 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:20:08 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:20:09 PM - signuppage - INFO: Element Found
+04/08/2020 08:20:09 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:20:09 PM - TestStatus - INFO: test_illegal_date_signup ### TEST SUCCESSFUL
+04/08/2020 08:20:09 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:20:09 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:20:10 PM - signuppage - INFO: Element Found
+04/08/2020 08:20:10 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:20:10 PM - TestStatus - INFO: test_invalid_email_signup ### TEST SUCCESSFUL
+04/08/2020 08:20:10 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:10 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:20:11 PM - signuppage - INFO: Element Found
+04/08/2020 08:20:11 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:20:11 PM - TestStatus - INFO: test_invalid_password_signup ### TEST SUCCESSFUL
+04/08/2020 08:20:11 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:20:11 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:20:12 PM - signuppage - INFO: Element Found
+04/08/2020 08:20:12 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:20:12 PM - TestStatus - INFO: test_non_equal_email_signup ### TEST SUCCESSFUL
+04/08/2020 08:20:12 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:20:12 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:20:13 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:20:13 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:20:13 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:20:13 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:20:13 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:20:13 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:20:13 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:20:13 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:20:13 PM - signuppage - INFO: Element Found
+04/08/2020 08:20:13 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + sign up done successsfly
+04/08/2020 08:20:13 PM - TestStatus - INFO: test_valid_signup ### TEST SUCCESSFUL
+04/08/2020 08:20:13 PM - signuppage_f - INFO: Element found with locator: select-button-signup-fb and  locatorType: id
+04/08/2020 08:20:13 PM - signuppage_f - INFO: Clicked on element with locator: select-button-signup-fb locatorType: id
+04/08/2020 08:20:13 PM - signuppage_f - INFO: Locator type class_name not correct/supported
+04/08/2020 08:20:13 PM - signuppage_f - INFO: Element not found with locator: svelte-kdyqkb and  locatorType: class_name
+04/08/2020 08:20:13 PM - signuppage_f - INFO: Element not found
+04/08/2020 08:20:35 PM - signuppage_f - INFO: Element found with locator: email and  locatorType: id
+04/08/2020 08:20:35 PM - signuppage_f - INFO: Sent data on element with locator: email locatorType: id
+04/08/2020 08:20:35 PM - signuppage_f - INFO: Element found with locator: pass and  locatorType: id
+04/08/2020 08:20:35 PM - signuppage_f - INFO: Sent data on element with locator: pass locatorType: id
+04/08/2020 08:20:35 PM - signuppage_f - INFO: Element found with locator: login and  locatorType: name
+04/08/2020 08:20:40 PM - signuppage_f - INFO: Clicked on element with locator: login locatorType: name
+04/08/2020 08:20:51 PM - signuppage_f - INFO: Element found with locator: svelte-kdyqkb and  locatorType: class
+04/08/2020 08:20:56 PM - signuppage_f - INFO: Clicked on element with locator: svelte-kdyqkb locatorType: class
+04/08/2020 08:20:59 PM - signuppage_f - INFO: Element not found with locator: Log Out and  locatorType: link
+04/08/2020 08:20:59 PM - signuppage_f - INFO: Cannot click on the element with locator: Log Out locatorType: link
+04/08/2020 08:22:43 PM - signuppage - INFO: Element found with locator: Sign up and  locatorType: link
+04/08/2020 08:22:43 PM - signuppage - INFO: Clicked on element with locator: Sign up locatorType: link
+04/08/2020 08:22:44 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:44 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:44 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:44 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:44 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:45 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:45 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:45 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:22:45 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:45 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:22:45 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:45 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:22:45 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:45 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:22:45 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:45 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:22:45 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:45 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:22:46 PM - signuppage - INFO: Element Found
+04/08/2020 08:22:46 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:22:46 PM - TestStatus - INFO: test_blank_confirm_email_signup ### TEST SUCCESSFUL
+04/08/2020 08:22:46 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:46 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:22:47 PM - signuppage - INFO: Element Found
+04/08/2020 08:22:47 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:22:47 PM - TestStatus - INFO: test_blank_display_signup ### TEST SUCCESSFUL
+04/08/2020 08:22:47 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:22:47 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:22:47 PM - signuppage - INFO: Element Found
+04/08/2020 08:22:47 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:22:47 PM - TestStatus - INFO: test_blank_email_signup ### TEST SUCCESSFUL
+04/08/2020 08:22:47 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:22:48 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:22:49 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:22:49 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:22:49 PM - signuppage - INFO: Element Found
+04/08/2020 08:22:49 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:22:49 PM - TestStatus - INFO: test_blank_gender_signup ### TEST SUCCESSFUL
+04/08/2020 08:22:49 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:49 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:49 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:49 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:49 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:49 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:49 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:49 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:22:49 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:49 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:22:49 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:49 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:22:49 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:49 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:22:49 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:49 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:22:50 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:22:51 PM - signuppage - INFO: Element Found
+04/08/2020 08:22:51 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:22:51 PM - TestStatus - INFO: test_illegal_date_signup ### TEST SUCCESSFUL
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:22:51 PM - signuppage - INFO: Element Found
+04/08/2020 08:22:51 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:22:51 PM - TestStatus - INFO: test_invalid_email_signup ### TEST SUCCESSFUL
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:51 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:22:52 PM - signuppage - INFO: Element Found
+04/08/2020 08:22:52 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:22:52 PM - TestStatus - INFO: test_invalid_password_signup ### TEST SUCCESSFUL
+04/08/2020 08:22:52 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:52 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:22:53 PM - signuppage - INFO: Element Found
+04/08/2020 08:22:53 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:22:53 PM - TestStatus - INFO: test_non_equal_email_signup ### TEST SUCCESSFUL
+04/08/2020 08:22:53 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:53 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:54 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:54 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:22:54 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:22:54 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:22:54 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:22:54 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:22:54 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:22:54 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:22:54 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:22:54 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:22:54 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:22:54 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:22:54 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:22:54 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:22:54 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:22:54 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:22:54 PM - signuppage - INFO: Element Found
+04/08/2020 08:22:54 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + sign up done successsfly
+04/08/2020 08:22:54 PM - TestStatus - INFO: test_valid_signup ### TEST SUCCESSFUL
+04/08/2020 08:22:54 PM - signuppage_f - INFO: Element found with locator: select-button-signup-fb and  locatorType: id
+04/08/2020 08:22:55 PM - signuppage_f - INFO: Clicked on element with locator: select-button-signup-fb locatorType: id
+04/08/2020 08:22:55 PM - signuppage_f - INFO: Locator type class_name not correct/supported
+04/08/2020 08:22:55 PM - signuppage_f - INFO: Element not found with locator: svelte-kdyqkb and  locatorType: class_name
+04/08/2020 08:22:55 PM - signuppage_f - INFO: Element not found
+04/08/2020 08:23:23 PM - signuppage_f - INFO: Element found with locator: email and  locatorType: id
+04/08/2020 08:23:23 PM - signuppage_f - INFO: Sent data on element with locator: email locatorType: id
+04/08/2020 08:23:23 PM - signuppage_f - INFO: Element found with locator: pass and  locatorType: id
+04/08/2020 08:23:23 PM - signuppage_f - INFO: Sent data on element with locator: pass locatorType: id
+04/08/2020 08:23:23 PM - signuppage_f - INFO: Element found with locator: login and  locatorType: name
+04/08/2020 08:23:23 PM - signuppage_f - INFO: Clicked on element with locator: login locatorType: name
+04/08/2020 08:23:30 PM - signuppage_f - INFO: Element found with locator: svelte-kdyqkb and  locatorType: class
+04/08/2020 08:23:30 PM - signuppage_f - INFO: Clicked on element with locator: svelte-kdyqkb locatorType: class
+04/08/2020 08:23:30 PM - signuppage_f - INFO: Element found with locator: Log Out and  locatorType: link
+04/08/2020 08:23:31 PM - signuppage_f - INFO: Clicked on element with locator: Log Out locatorType: link
+04/08/2020 08:56:59 PM - signuppage - INFO: Element found with locator: Sign up and  locatorType: link
+04/08/2020 08:56:59 PM - signuppage - INFO: Clicked on element with locator: Sign up locatorType: link
+04/08/2020 08:56:59 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:00 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:00 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:00 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:00 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:00 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:00 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:00 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:57:00 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:00 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:57:00 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:00 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:57:00 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:00 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:57:00 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:00 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:57:00 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:00 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:57:01 PM - signuppage - INFO: Element Found
+04/08/2020 08:57:01 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:57:01 PM - TestStatus - INFO: test_blank_confirm_email_signup ### TEST SUCCESSFUL
+04/08/2020 08:57:01 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:57:01 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:57:02 PM - signuppage - INFO: Element Found
+04/08/2020 08:57:02 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:57:02 PM - TestStatus - INFO: test_blank_display_signup ### TEST SUCCESSFUL
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:57:02 PM - signuppage - INFO: Element Found
+04/08/2020 08:57:02 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:57:02 PM - TestStatus - INFO: test_blank_email_signup ### TEST SUCCESSFUL
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:02 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:57:03 PM - signuppage - INFO: Element Found
+04/08/2020 08:57:03 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:57:03 PM - TestStatus - INFO: test_blank_gender_signup ### TEST SUCCESSFUL
+04/08/2020 08:57:03 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:57:03 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:57:04 PM - signuppage - INFO: Element Found
+04/08/2020 08:57:04 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:57:04 PM - TestStatus - INFO: test_existing_email_signup ### TEST SUCCESSFUL
+04/08/2020 08:57:04 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:57:04 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:57:05 PM - signuppage - INFO: Element Found
+04/08/2020 08:57:05 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:57:05 PM - TestStatus - INFO: test_illegal_date_signup ### TEST SUCCESSFUL
+04/08/2020 08:57:05 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:05 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:57:06 PM - signuppage - INFO: Element Found
+04/08/2020 08:57:06 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:57:06 PM - TestStatus - INFO: test_invalid_email_signup ### TEST SUCCESSFUL
+04/08/2020 08:57:06 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:57:06 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:57:07 PM - signuppage - INFO: Element Found
+04/08/2020 08:57:07 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:57:07 PM - TestStatus - INFO: test_invalid_password_signup ### TEST SUCCESSFUL
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:57:07 PM - signuppage - INFO: Element Found
+04/08/2020 08:57:07 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 08:57:07 PM - TestStatus - INFO: test_non_equal_email_signup ### TEST SUCCESSFUL
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:07 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:08 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 08:57:08 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 08:57:08 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 08:57:08 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 08:57:08 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 08:57:08 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 08:57:08 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 08:57:08 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 08:57:08 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 08:57:08 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 08:57:08 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 08:57:08 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 08:57:08 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 08:57:08 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 08:57:08 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 08:57:08 PM - signuppage - INFO: Element Found
+04/08/2020 08:57:08 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + sign up done successsfly
+04/08/2020 08:57:08 PM - TestStatus - INFO: test_valid_signup ### TEST SUCCESSFUL
+04/08/2020 08:57:08 PM - signuppage_f - INFO: Element found with locator: select-button-signup-fb and  locatorType: id
+04/08/2020 08:57:08 PM - signuppage_f - INFO: Clicked on element with locator: select-button-signup-fb locatorType: id
+04/08/2020 08:57:08 PM - signuppage_f - INFO: Locator type class_name not correct/supported
+04/08/2020 08:57:08 PM - signuppage_f - INFO: Element not found with locator: svelte-kdyqkb and  locatorType: class_name
+04/08/2020 08:57:08 PM - signuppage_f - INFO: Element not found
+04/08/2020 08:57:35 PM - signuppage_f - INFO: Element found with locator: email and  locatorType: id
+04/08/2020 08:57:36 PM - signuppage_f - INFO: Sent data on element with locator: email locatorType: id
+04/08/2020 08:57:36 PM - signuppage_f - INFO: Element found with locator: pass and  locatorType: id
+04/08/2020 08:57:36 PM - signuppage_f - INFO: Sent data on element with locator: pass locatorType: id
+04/08/2020 08:57:36 PM - signuppage_f - INFO: Element found with locator: login and  locatorType: name
+04/08/2020 08:57:36 PM - signuppage_f - INFO: Clicked on element with locator: login locatorType: name
+04/08/2020 08:58:14 PM - signuppage_f - INFO: Element not found with locator: svelte-kdyqkb and  locatorType: class
+04/08/2020 08:58:14 PM - signuppage_f - INFO: Cannot click on the element with locator: svelte-kdyqkb locatorType: class
+04/08/2020 08:58:17 PM - signuppage_f - INFO: Element not found with locator: Log Out and  locatorType: link
+04/08/2020 08:58:17 PM - signuppage_f - INFO: Cannot click on the element with locator: Log Out locatorType: link
+04/08/2020 09:01:47 PM - signuppage - INFO: Element found with locator: Sign up and  locatorType: link
+04/08/2020 09:02:01 PM - signuppage - INFO: Clicked on element with locator: Sign up locatorType: link
+04/08/2020 09:02:01 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:01 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:01 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:01 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:01 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:01 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:01 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:01 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 09:02:01 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:01 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 09:02:01 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:01 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 09:02:01 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:01 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 09:02:01 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:01 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 09:02:01 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:01 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 09:02:06 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 09:02:11 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 09:02:11 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 09:02:11 PM - signuppage - INFO: Element Found
+04/08/2020 09:02:11 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 09:02:11 PM - TestStatus - INFO: test_blank_confirm_email_signup ### TEST SUCCESSFUL
+04/08/2020 09:02:11 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:12 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:12 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:12 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:12 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:12 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:12 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:12 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 09:02:12 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:12 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 09:02:12 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:12 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 09:02:12 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:12 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 09:02:12 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:12 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 09:02:12 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:12 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 09:02:17 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 09:02:18 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 09:02:18 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 09:02:18 PM - signuppage - INFO: Element Found
+04/08/2020 09:02:18 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 09:02:18 PM - TestStatus - INFO: test_blank_display_signup ### TEST SUCCESSFUL
+04/08/2020 09:02:18 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:18 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:18 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:18 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:18 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:18 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:18 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:18 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 09:02:18 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:18 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 09:02:18 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:18 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 09:02:18 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:18 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 09:02:18 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 09:02:19 PM - signuppage - INFO: Element Found
+04/08/2020 09:02:19 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 09:02:19 PM - TestStatus - INFO: test_blank_email_signup ### TEST SUCCESSFUL
+04/08/2020 09:02:19 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:19 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 09:02:20 PM - signuppage - INFO: Element Found
+04/08/2020 09:02:20 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 09:02:20 PM - TestStatus - INFO: test_blank_gender_signup ### TEST SUCCESSFUL
+04/08/2020 09:02:20 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:20 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 09:02:21 PM - signuppage - INFO: Element Found
+04/08/2020 09:02:21 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 09:02:21 PM - TestStatus - INFO: test_existing_email_signup ### TEST SUCCESSFUL
+04/08/2020 09:02:21 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 09:02:21 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 09:02:22 PM - signuppage - INFO: Element Found
+04/08/2020 09:02:22 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 09:02:22 PM - TestStatus - INFO: test_illegal_date_signup ### TEST SUCCESSFUL
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 09:02:22 PM - signuppage - INFO: Element Found
+04/08/2020 09:02:22 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 09:02:22 PM - TestStatus - INFO: test_invalid_email_signup ### TEST SUCCESSFUL
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:22 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 09:02:23 PM - signuppage - INFO: Element Found
+04/08/2020 09:02:23 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 09:02:23 PM - TestStatus - INFO: test_invalid_password_signup ### TEST SUCCESSFUL
+04/08/2020 09:02:23 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 09:02:23 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 09:02:24 PM - signuppage - INFO: Element Found
+04/08/2020 09:02:24 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Invalid Signup
+04/08/2020 09:02:24 PM - TestStatus - INFO: test_non_equal_email_signup ### TEST SUCCESSFUL
+04/08/2020 09:02:24 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Element found with locator: register-email and  locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Sent data on element with locator: register-email locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Element found with locator: register-confirm-email and  locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Sent data on element with locator: register-confirm-email locatorType: id
+04/08/2020 09:02:24 PM - signuppage - INFO: Element found with locator: register-password and  locatorType: id
+04/08/2020 09:02:25 PM - signuppage - INFO: Sent data on element with locator: register-password locatorType: id
+04/08/2020 09:02:25 PM - signuppage - INFO: Element found with locator: register-displayname and  locatorType: id
+04/08/2020 09:02:25 PM - signuppage - INFO: Sent data on element with locator: register-displayname locatorType: id
+04/08/2020 09:02:25 PM - signuppage - INFO: Element found with locator: register-dob-day and  locatorType: id
+04/08/2020 09:02:25 PM - signuppage - INFO: Sent data on element with locator: register-dob-day locatorType: id
+04/08/2020 09:02:25 PM - signuppage - INFO: Element found with locator: register-dob-year and  locatorType: id
+04/08/2020 09:02:25 PM - signuppage - INFO: Sent data on element with locator: register-dob-year locatorType: id
+04/08/2020 09:02:25 PM - signuppage - INFO: Element found with locator: register-button-email-submit and  locatorType: id
+04/08/2020 09:02:25 PM - signuppage - INFO: Clicked on element with locator: register-button-email-submit locatorType: id
+04/08/2020 09:02:25 PM - signuppage - INFO: Element found with locator: has-error and  locatorType: class
+04/08/2020 09:02:25 PM - signuppage - INFO: Element Found
+04/08/2020 09:02:25 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + sign up done successsfly
+04/08/2020 09:02:25 PM - TestStatus - INFO: test_valid_signup ### TEST SUCCESSFUL
+04/08/2020 09:02:25 PM - signuppage_f - INFO: Element found with locator: select-button-signup-fb and  locatorType: id
+04/08/2020 09:02:25 PM - signuppage_f - INFO: Clicked on element with locator: select-button-signup-fb locatorType: id
+04/08/2020 09:02:25 PM - signuppage_f - INFO: Locator type class_name not correct/supported
+04/08/2020 09:02:25 PM - signuppage_f - INFO: Element not found with locator: svelte-kdyqkb and  locatorType: class_name
+04/08/2020 09:02:25 PM - signuppage_f - INFO: Element not found
+04/08/2020 09:02:29 PM - signuppage_f - INFO: Element found with locator: email and  locatorType: id
+04/08/2020 09:02:29 PM - signuppage_f - INFO: Sent data on element with locator: email locatorType: id
+04/08/2020 09:02:29 PM - signuppage_f - INFO: Element found with locator: pass and  locatorType: id
+04/08/2020 09:02:29 PM - signuppage_f - INFO: Sent data on element with locator: pass locatorType: id
+04/08/2020 09:02:29 PM - signuppage_f - INFO: Element found with locator: login and  locatorType: name
+04/08/2020 09:02:29 PM - signuppage_f - INFO: Clicked on element with locator: login locatorType: name
+04/08/2020 09:02:37 PM - signuppage_f - INFO: Element found with locator: svelte-kdyqkb and  locatorType: class
+04/08/2020 09:02:38 PM - signuppage_f - INFO: Clicked on element with locator: svelte-kdyqkb locatorType: class
+04/08/2020 09:02:38 PM - signuppage_f - INFO: Element found with locator: Log Out and  locatorType: link
+04/08/2020 09:02:38 PM - signuppage_f - INFO: Clicked on element with locator: Log Out locatorType: link
+04/08/2020 09:04:25 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 09:04:26 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 09:04:27 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] and  locatorType: xpath
+04/08/2020 09:04:27 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] locatorType: xpath
+04/08/2020 09:04:27 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 09:04:30 PM - helppage - INFO: Cannot click on the element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a locatorType: xpath
+04/08/2020 09:04:34 PM - helppage - INFO: Element not found with locator: /html/body/div/div[7]/div[3]/button and  locatorType: xpath
+04/08/2020 09:04:34 PM - helppage - INFO: Cannot click on the element with locator: /html/body/div/div[7]/div[3]/button locatorType: xpath
+04/08/2020 09:05:48 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 09:05:49 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 09:05:50 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] and  locatorType: xpath
+04/08/2020 09:05:50 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] locatorType: xpath
+04/08/2020 09:05:50 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 09:05:50 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a locatorType: xpath
+04/08/2020 09:07:44 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 09:07:45 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 09:07:46 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] and  locatorType: xpath
+04/08/2020 09:07:46 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] locatorType: xpath
+04/08/2020 09:07:46 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 09:07:49 PM - helppage - INFO: Cannot click on the element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a locatorType: xpath
+04/08/2020 09:09:53 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 09:09:53 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 09:09:54 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] and  locatorType: xpath
+04/08/2020 09:09:54 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] locatorType: xpath
+04/08/2020 09:09:54 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 09:09:57 PM - helppage - INFO: Cannot click on the element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a locatorType: xpath
+04/08/2020 09:34:49 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 09:34:50 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 09:34:52 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] and  locatorType: xpath
+04/08/2020 09:34:52 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] locatorType: xpath
+04/08/2020 09:34:52 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 09:34:52 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a locatorType: xpath
+04/08/2020 09:34:56 PM - helppage - INFO: Element not found with locator: /html/body/div/div[7]/div[3]/button and  locatorType: xpath
+04/08/2020 09:34:56 PM - helppage - INFO: Cannot click on the element with locator: /html/body/div/div[7]/div[3]/button locatorType: xpath
+04/08/2020 09:44:38 PM - homepage - INFO: Element not found with locator: Sign up and  locatorType: link
+04/08/2020 09:44:38 PM - homepage - INFO: Cannot click on the element with locator: Sign up locatorType: link
+04/08/2020 09:44:39 PM - homepage - INFO: Element not found with locator: Help and  locatorType: link
+04/08/2020 09:44:39 PM - homepage - INFO: Cannot click on the element with locator: Help locatorType: link
+04/08/2020 09:46:06 PM - homepage - INFO: Element not found with locator: Sign up and  locatorType: link
+04/08/2020 09:46:06 PM - homepage - INFO: Cannot click on the element with locator: Sign up locatorType: link
+04/08/2020 09:46:07 PM - homepage - INFO: Element not found with locator: Help and  locatorType: link
+04/08/2020 09:46:07 PM - homepage - INFO: Cannot click on the element with locator: Help locatorType: link
+04/08/2020 09:49:00 PM - homepage - INFO: Element not found with locator: Help and  locatorType: link
+04/08/2020 09:49:00 PM - homepage - INFO: Cannot click on the element with locator: Help locatorType: link
+04/08/2020 09:52:47 PM - homepage - INFO: Element not found with locator: Help and  locatorType: link
+04/08/2020 09:52:47 PM - homepage - INFO: Cannot click on the element with locator: Help locatorType: link
+04/08/2020 09:58:02 PM - homepage - INFO: Element not found with locator: Help and  locatorType: link
+04/08/2020 09:58:02 PM - homepage - INFO: Cannot click on the element with locator: Help locatorType: link
+04/08/2020 10:02:34 PM - homepage - INFO: Element not found with locator: Sign up and  locatorType: link
+04/08/2020 10:02:34 PM - homepage - INFO: Cannot click on the element with locator: Sign up locatorType: link
+04/08/2020 10:02:36 PM - homepage - INFO: Element not found with locator: /html/body/div[2]/div[1]/header/div/nav/ul/li[2]/a and  locatorType: xpath
+04/08/2020 10:02:36 PM - homepage - INFO: Cannot click on the element with locator: /html/body/div[2]/div[1]/header/div/nav/ul/li[2]/a locatorType: xpath
+04/08/2020 10:04:22 PM - homepage - INFO: Element not found with locator: Sign up and  locatorType: link
+04/08/2020 10:04:22 PM - homepage - INFO: Cannot click on the element with locator: Sign up locatorType: link
+04/08/2020 10:04:23 PM - homepage - INFO: Element not found with locator: /html/body/div[2]/div[1]/header/div/nav/ul/li[2]/a and  locatorType: xpath
+04/08/2020 10:04:23 PM - homepage - INFO: Cannot click on the element with locator: /html/body/div[2]/div[1]/header/div/nav/ul/li[2]/a locatorType: xpath
+04/08/2020 10:27:38 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 10:27:38 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 10:27:40 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] and  locatorType: xpath
+04/08/2020 10:27:40 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] locatorType: xpath
+04/08/2020 10:27:40 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 10:27:41 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a locatorType: xpath
+04/08/2020 10:27:45 PM - helppage - INFO: Element not found with locator: /html/body/div/div[7]/div[3]/button and  locatorType: xpath
+04/08/2020 10:27:45 PM - helppage - INFO: Cannot click on the element with locator: /html/body/div/div[7]/div[3]/button locatorType: xpath
+04/08/2020 10:51:21 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 10:51:22 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 10:51:24 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] and  locatorType: xpath
+04/08/2020 10:51:24 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] locatorType: xpath
+04/08/2020 10:51:24 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 10:51:24 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a locatorType: xpath
+04/08/2020 10:56:49 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 10:56:49 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 10:56:51 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] and  locatorType: xpath
+04/08/2020 10:56:51 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] locatorType: xpath
+04/08/2020 10:56:51 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 10:56:52 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a locatorType: xpath
+04/08/2020 10:56:56 PM - helppage - INFO: Element not found with locator: /html/body/div/div[7]/div[3]/button and  locatorType: xpath
+04/08/2020 10:56:56 PM - helppage - INFO: Cannot click on the element with locator: /html/body/div/div[7]/div[3]/button locatorType: xpath
+04/08/2020 11:07:26 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 11:07:27 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 11:07:29 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] and  locatorType: xpath
+04/08/2020 11:07:29 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] locatorType: xpath
+04/08/2020 11:07:29 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 11:07:29 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a locatorType: xpath
+04/08/2020 11:10:33 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 11:10:33 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 11:10:35 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] and  locatorType: xpath
+04/08/2020 11:10:35 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] locatorType: xpath
+04/08/2020 11:10:35 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 11:10:35 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a locatorType: xpath
+04/08/2020 11:12:01 PM - helppage - INFO: Element found with locator: Help and  locatorType: link
+04/08/2020 11:12:01 PM - helppage - INFO: Clicked on element with locator: Help locatorType: link
+04/08/2020 11:12:03 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] and  locatorType: xpath
+04/08/2020 11:12:03 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[2]/div/ol/li[5] locatorType: xpath
+04/08/2020 11:12:04 PM - helppage - INFO: Element found with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a and  locatorType: xpath
+04/08/2020 11:12:04 PM - helppage - INFO: Clicked on element with locator: /html/body/div[1]/div/div[6]/div/div/div[2]/div/div[1]/div[5]/div/div/a locatorType: xpath
+04/08/2020 11:12:08 PM - helppage - INFO: Element not found with locator: /html/body/div/div[7]/div[3]/button and  locatorType: xpath
+04/08/2020 11:12:08 PM - helppage - INFO: Cannot click on the element with locator: /html/body/div/div[7]/div[3]/button locatorType: xpath
+04/09/2020 12:38:09 AM - homepage - INFO: Element found with locator: Sign up and  locatorType: link
+04/09/2020 12:38:10 AM - homepage - INFO: Clicked on element with locator: Sign up locatorType: link
+04/09/2020 12:38:17 AM - homepage - INFO: Element found with locator: /html/body/div[2]/div[1]/header/div/nav/ul/li[2]/a and  locatorType: xpath
+04/09/2020 12:38:17 AM - homepage - INFO: Clicked on element with locator: /html/body/div[2]/div[1]/header/div/nav/ul/li[2]/a locatorType: xpath
+04/09/2020 12:38:19 AM - homepage - INFO: Element found with locator: Web Player and  locatorType: link
+04/09/2020 12:38:19 AM - homepage - INFO: Clicked on element with locator: Web Player locatorType: link
+04/09/2020 12:38:22 AM - homepage - INFO: Element found with locator: Developers and  locatorType: link
+04/09/2020 12:38:22 AM - homepage - INFO: Clicked on element with locator: Developers locatorType: link
+04/09/2020 12:38:24 AM - homepage - INFO: Element found with locator: Brands and  locatorType: link
+04/09/2020 12:38:40 AM - homepage - INFO: Clicked on element with locator: Brands locatorType: link
+04/09/2020 12:38:42 AM - homepage - INFO: Element found with locator: About and  locatorType: link
+04/09/2020 12:38:47 AM - homepage - INFO: Clicked on element with locator: About locatorType: link
+04/09/2020 12:38:50 AM - homepage - INFO: Element not found with locator: For the Record and  locatorType: link
+04/09/2020 12:38:50 AM - homepage - INFO: Cannot click on the element with locator: For the Record locatorType: link
+04/09/2020 12:38:53 AM - homepage - INFO: Element not found with locator: Premium and  locatorType: link
+04/09/2020 12:38:53 AM - homepage - INFO: Cannot click on the element with locator: Premium locatorType: link
+04/09/2020 12:38:57 AM - homepage - INFO: Element not found with locator: Download and  locatorType: link
+04/09/2020 12:38:57 AM - homepage - INFO: Cannot click on the element with locator: Download locatorType: link
+04/09/2020 12:39:02 AM - homepage - INFO: Element not found with locator: Log In and  locatorType: link
+04/09/2020 12:39:02 AM - homepage - INFO: Cannot click on the element with locator: Log In locatorType: link
+04/09/2020 12:39:06 AM - homepage - INFO: Element not found with locator: Sign up and  locatorType: link
+04/09/2020 12:39:06 AM - homepage - INFO: Cannot click on the element with locator: Sign up locatorType: link
+04/09/2020 03:20:46 AM - homepage - INFO: Element found with locator: Sign up and  locatorType: link
+04/09/2020 03:20:46 AM - homepage - INFO: Clicked on element with locator: Sign up locatorType: link
+04/09/2020 03:20:49 AM - homepage - INFO: Element found with locator: /html/body/div[2]/div[1]/header/div/nav/ul/li[2]/a and  locatorType: xpath
+04/09/2020 03:20:50 AM - homepage - INFO: Clicked on element with locator: /html/body/div[2]/div[1]/header/div/nav/ul/li[2]/a locatorType: xpath
+04/09/2020 03:20:52 AM - homepage - INFO: Element found with locator: Web Player and  locatorType: link
+04/09/2020 03:20:52 AM - homepage - INFO: Clicked on element with locator: Web Player locatorType: link
+04/09/2020 03:20:54 AM - homepage - INFO: Element found with locator: Developers and  locatorType: link
+04/09/2020 03:20:55 AM - homepage - INFO: Clicked on element with locator: Developers locatorType: link
+04/09/2020 03:20:56 AM - homepage - INFO: Element found with locator: Brands and  locatorType: link
+04/09/2020 03:21:13 AM - homepage - INFO: Clicked on element with locator: Brands locatorType: link
+04/09/2020 03:21:17 AM - homepage - INFO: Element found with locator: About and  locatorType: link
+04/09/2020 03:21:17 AM - homepage - INFO: Clicked on element with locator: About locatorType: link
+04/09/2020 03:21:18 AM - homepage - INFO: Element found with locator: For the Record and  locatorType: link
+04/09/2020 03:21:20 AM - homepage - INFO: Clicked on element with locator: For the Record locatorType: link
+04/09/2020 03:21:22 AM - homepage - INFO: Element found with locator: Premium and  locatorType: link
+04/09/2020 03:21:22 AM - homepage - INFO: Clicked on element with locator: Premium locatorType: link
+04/09/2020 03:21:24 AM - homepage - INFO: Element found with locator: Download and  locatorType: link
+04/09/2020 03:21:25 AM - homepage - INFO: Clicked on element with locator: Download locatorType: link
+04/09/2020 03:21:27 AM - homepage - INFO: Element found with locator: Log In and  locatorType: link
+04/09/2020 03:21:27 AM - homepage - INFO: Clicked on element with locator: Log In locatorType: link
+04/09/2020 03:21:30 AM - homepage - INFO: Element found with locator: Sign up and  locatorType: link
+04/09/2020 03:21:31 AM - homepage - INFO: Clicked on element with locator: Sign up locatorType: link
+04/09/2020 07:43:21 AM - homepage - INFO: Element found with locator: Sign up and  locatorType: link
+04/09/2020 07:43:22 AM - homepage - INFO: Clicked on element with locator: Sign up locatorType: link
+04/09/2020 07:43:26 AM - homepage - INFO: Element found with locator: /html/body/div[2]/div[1]/header/div/nav/ul/li[2]/a and  locatorType: xpath
+04/09/2020 07:43:27 AM - homepage - INFO: Clicked on element with locator: /html/body/div[2]/div[1]/header/div/nav/ul/li[2]/a locatorType: xpath
+04/09/2020 07:43:31 AM - homepage - INFO: Element found with locator: Web Player and  locatorType: link
+04/09/2020 07:43:31 AM - homepage - INFO: Clicked on element with locator: Web Player locatorType: link
+04/09/2020 07:43:33 AM - homepage - INFO: Element found with locator: Developers and  locatorType: link
+04/09/2020 07:43:36 AM - homepage - INFO: Clicked on element with locator: Developers locatorType: link
+04/09/2020 07:43:39 AM - homepage - INFO: Element found with locator: Brands and  locatorType: link
+04/09/2020 07:43:50 AM - homepage - INFO: Clicked on element with locator: Brands locatorType: link
+04/09/2020 07:43:53 AM - homepage - INFO: Element found with locator: About and  locatorType: link
+04/09/2020 07:43:55 AM - homepage - INFO: Clicked on element with locator: About locatorType: link
+04/09/2020 07:43:57 AM - homepage - INFO: Element found with locator: For the Record and  locatorType: link
+04/09/2020 07:44:01 AM - homepage - INFO: Clicked on element with locator: For the Record locatorType: link
+04/09/2020 07:44:02 AM - homepage - INFO: Element found with locator: Premium and  locatorType: link
+04/09/2020 07:44:05 AM - homepage - INFO: Clicked on element with locator: Premium locatorType: link
+04/09/2020 07:44:07 AM - homepage - INFO: Element found with locator: Download and  locatorType: link
+04/09/2020 07:44:08 AM - homepage - INFO: Clicked on element with locator: Download locatorType: link
+04/09/2020 07:44:11 AM - homepage - INFO: Element found with locator: Log In and  locatorType: link
+04/09/2020 07:44:12 AM - homepage - INFO: Clicked on element with locator: Log In locatorType: link
+04/09/2020 07:44:15 AM - homepage - INFO: Element found with locator: Sign up and  locatorType: link
+04/09/2020 07:44:16 AM - homepage - INFO: Clicked on element with locator: Sign up locatorType: link
+04/09/2020 07:45:22 AM - homepage - INFO: Element found with locator: Sign up and  locatorType: link
+04/09/2020 07:45:23 AM - homepage - INFO: Clicked on element with locator: Sign up locatorType: link
+04/09/2020 07:45:26 AM - homepage - INFO: Element found with locator: /html/body/div[2]/div[1]/header/div/nav/ul/li[2]/a and  locatorType: xpath
+04/09/2020 07:45:27 AM - homepage - INFO: Clicked on element with locator: /html/body/div[2]/div[1]/header/div/nav/ul/li[2]/a locatorType: xpath
+04/09/2020 07:45:31 AM - homepage - INFO: Element found with locator: Premium and  locatorType: link
+04/09/2020 07:45:31 AM - homepage - INFO: Clicked on element with locator: Premium locatorType: link
+04/09/2020 07:45:36 AM - homepage - INFO: Element found with locator: Download and  locatorType: link
+04/09/2020 07:45:36 AM - homepage - INFO: Clicked on element with locator: Download locatorType: link
+04/09/2020 07:45:39 AM - homepage - INFO: Element found with locator: Sign up and  locatorType: link
+04/09/2020 07:45:40 AM - homepage - INFO: Clicked on element with locator: Sign up locatorType: link
+04/09/2020 07:45:44 AM - homepage - INFO: Element found with locator: Web Player and  locatorType: link
+04/09/2020 07:45:48 AM - homepage - INFO: Clicked on element with locator: Web Player locatorType: link
+04/09/2020 07:45:49 AM - homepage - INFO: Element found with locator: Developers and  locatorType: link
+04/09/2020 07:45:51 AM - homepage - INFO: Clicked on element with locator: Developers locatorType: link
+04/09/2020 07:45:55 AM - homepage - INFO: Element found with locator: Brands and  locatorType: link
+04/09/2020 07:46:07 AM - homepage - INFO: Clicked on element with locator: Brands locatorType: link
+04/09/2020 07:46:09 AM - homepage - INFO: Element found with locator: About and  locatorType: link
+04/09/2020 07:46:09 AM - homepage - INFO: Clicked on element with locator: About locatorType: link
+04/09/2020 07:46:11 AM - homepage - INFO: Element found with locator: For the Record and  locatorType: link
+04/09/2020 07:46:13 AM - homepage - INFO: Clicked on element with locator: For the Record locatorType: link
+04/09/2020 07:46:14 AM - homepage - INFO: Element found with locator: Log In and  locatorType: link
+04/09/2020 07:46:18 AM - homepage - INFO: Clicked on element with locator: Log In locatorType: link
+04/09/2020 07:46:19 AM - homepage - INFO: Element found with locator: /html/body/div[2]/div[1]/header/div/nav/ul/li[2]/a and  locatorType: xpath
+04/09/2020 07:46:19 AM - homepage - INFO: Clicked on element with locator: /html/body/div[2]/div[1]/header/div/nav/ul/li[2]/a locatorType: xpath
+04/09/2020 07:46:23 AM - homepage - INFO: Element found with locator: Web Player and  locatorType: link
+04/09/2020 07:46:26 AM - homepage - INFO: Clicked on element with locator: Web Player locatorType: link
+04/09/2020 07:46:29 AM - homepage - INFO: Element found with locator: Developers and  locatorType: link
+04/09/2020 07:46:31 AM - homepage - INFO: Clicked on element with locator: Developers locatorType: link
+04/09/2020 07:46:33 AM - homepage - INFO: Element found with locator: Brands and  locatorType: link
+04/09/2020 07:46:43 AM - homepage - INFO: Clicked on element with locator: Brands locatorType: link
+04/09/2020 07:46:45 AM - homepage - INFO: Element found with locator: About and  locatorType: link
+04/09/2020 07:46:47 AM - homepage - INFO: Clicked on element with locator: About locatorType: link
+04/09/2020 07:46:48 AM - homepage - INFO: Element found with locator: For the Record and  locatorType: link
+04/09/2020 07:46:51 AM - homepage - INFO: Clicked on element with locator: For the Record locatorType: link
+04/09/2020 07:46:53 AM - homepage - INFO: Element found with locator: Premium and  locatorType: link
+04/09/2020 07:46:54 AM - homepage - INFO: Clicked on element with locator: Premium locatorType: link
+04/09/2020 07:46:57 AM - homepage - INFO: Element found with locator: Download and  locatorType: link
+04/09/2020 07:46:57 AM - homepage - INFO: Clicked on element with locator: Download locatorType: link
+04/09/2020 07:47:00 AM - homepage - INFO: Element found with locator: Log In and  locatorType: link
+04/09/2020 07:47:01 AM - homepage - INFO: Clicked on element with locator: Log In locatorType: link
+04/09/2020 07:47:03 AM - homepage - INFO: Element found with locator: Sign up and  locatorType: link
+04/09/2020 07:47:05 AM - homepage - INFO: Clicked on element with locator: Sign up locatorType: link
