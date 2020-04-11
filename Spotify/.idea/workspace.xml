@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfb79ee3-f8f8-40e3-8cc1-5cb0d3818a62" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZlbbVEX1g2nxCVLk5vAdjtYXwB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/tests/home" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mohamed Gaber\PycharmProjects\Spotify\tests\home" />
+      <recent name="C:\Users\Mohamed Gaber\PycharmProjects\Spotify\pages\home" />
+      <recent name="C:\Users\Mohamed Gaber\PycharmProjects\Spotify\base" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Full_Test2">
+    <configuration name="Full_Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Spotify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/home/Full_Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Full_Test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Spotify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tests/home/Full_Test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for login_test_project.LoginTest.test_invalid_login_1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Spotify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login_test_project.LoginTest.test_invalid_login_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for login_test_project.LoginTest.test_remeber_me" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Spotify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login_test_project.LoginTest.test_remeber_me&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for tests.home.login_test_android.LoginTestAndroid.test_validlogin" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Spotify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/home" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.home.login_test_android.LoginTestAndroid.test_validlogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Full_Test2" />
+        <item itemvalue="Python tests.Unittests for login_test_project.LoginTest.test_invalid_login_1" />
+        <item itemvalue="Python.Full_Test" />
+        <item itemvalue="Python tests.Unittests for login_test_project.LoginTest.test_remeber_me" />
+        <item itemvalue="Python tests.Unittests for tests.home.login_test_android.LoginTestAndroid.test_validlogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfb79ee3-f8f8-40e3-8cc1-5cb0d3818a62" name="Default Changelist" comment="" />
+      <created>1585416699377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585416699377</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="537" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586110978210">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="537" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1586110978210" />
+    <state x="413" y="195" key="FileChooserDialogImpl" timestamp="1586628852429">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="413" y="195" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586628852429" />
+    <state width="1496" height="204" key="GridCell.Tab.0.bottom" timestamp="1586628855224">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1496" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586628855224" />
+    <state width="1496" height="204" key="GridCell.Tab.0.center" timestamp="1586628855223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1496" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586628855223" />
+    <state width="1496" height="204" key="GridCell.Tab.0.left" timestamp="1586628855223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1496" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586628855223" />
+    <state width="1496" height="204" key="GridCell.Tab.0.right" timestamp="1586628855223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1496" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586628855223" />
+    <state width="1496" height="258" key="GridCell.Tab.1.bottom" timestamp="1586568429003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1496" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586568429003" />
+    <state width="1496" height="258" key="GridCell.Tab.1.center" timestamp="1586568429002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1496" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586568429002" />
+    <state width="1496" height="258" key="GridCell.Tab.1.left" timestamp="1586568429002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1496" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586568429002" />
+    <state width="1496" height="258" key="GridCell.Tab.1.right" timestamp="1586568429002">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1496" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586568429002" />
+    <state x="142" y="83" key="SettingsEditor" timestamp="1585680457081">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="142" y="83" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585680457081" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586611669472">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586611669472" />
+    <state x="461" y="10" width="609" height="804" key="find.popup" timestamp="1586528580860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="10" width="609" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1586528580860" />
+    <state x="510" y="56" key="refactoring.ChangeSignatureDialog" timestamp="1585950209923">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="56" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1585950209923" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586491992929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586491992929" />
+    <state x="491" y="324" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585964874903">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="324" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1585964874903" />
+  </component>
+</project>
