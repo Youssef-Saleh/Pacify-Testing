@@ -8,48 +8,49 @@ import web.utilities.custom_logger as cl
 
 class signuppage_f(SeleniumDriver):
 
-    log = cl.customLogger(logging.DEBUG)
+    Log = cl.customLogger(logging.DEBUG)
 
-    def __init__(self,driver):
-        self.driver=driver
+    def __init__(self, Driver):
+        self.Driver=Driver
 
     #locators
-    _signup_link="Sign up"
-    _continue_fcebook="select-button-signup-fb"
-    _profile_tab="svelte-kdyqkb"
-    _email_field="email"
-    _password_field="pass"
-    _submit_button="login"
-    _profile_class="svelte-kdyqkb"
-    _logout_btn = "Log Out"
+    SignupLink= "Sign up"
+    #ContinueFacebook= "select-button-signup-fb"
+    Facebook="SIGN UP WITH FACEBOOK"
+    ProfileLink= "svelte-kdyqkb"
+    EmailField= "email"
+    PasswordField= "pass"
+    SubmitBtn= "login"
+    ProfileClass= "svelte-kdyqkb"
+    LogoutBtn = "Log Out"
+    def ClickFacebook(self):
+        self.ElementClick(self.Facebook,"link")
+    def LogoutFN(self):
+        self.ClickProfileLink()
+        self.ClickLogoutBtn()
 
-    def logout_fn(self):
-        self.click_profile_tab()
-        self.click_logout_btn()
+    def ClickProfileLink(self):
+        self.ElementClick(self.ProfileClass, LocatorType="class")
 
-    def click_profile_tab(self):
-        self.elementClick(self._profile_class, locatorType="class")
-
-    def click_logout_btn(self):
-        self.elementClick(self._logout_btn, locatorType="link")
+    def ClickLogoutBtn(self):
+        self.ElementClick(self.LogoutBtn, LocatorType="link")
         ################################################
-    def click_signup_facebook(self):
-        self.elementClick(self._continue_fcebook,locatorType="id")
-    def enter_email(self, email):
-        self.sendKeys(email, self._email_field)
-    def enter_password(self,password):
-        self.sendKeys(password,self._password_field)
+    def ClickSignupFacebook(self):
+        self.ElementClick(self.ContinueFacebook, LocatorType="id")
+    def EnterEmail(self, email):
+        self.SendKeys(email, self.EmailField)
+    def EnterPassword(self, password):
+        self.SendKeys(password, self.PasswordField)
     def login(self):
-        self.elementClick(self._submit_button,locatorType="name")
-
-    def signup_facebook(self,email="",password=""):
-        self.enter_email(email)
-        self.enter_password(password)
+        self.ElementClick(self.SubmitBtn, LocatorType="name")
+    def SignupFacebook(self, email="", password=""):
+        self.EnterEmail(email)
+        self.EnterPassword(password)
         self.login()
 
 
-    def switch_handles_login(self,parenthandle,handles,driver,email,password):
-        result=self.isElementPresent(self._profile_tab,locatorType="CLASS_NAME")
+    def SwitchhandlesLogin(self, parenthandle, handles, driver, email, password):
+        result=self.IsElementPresent(self.ProfileLink, LocatorType="CLASS_NAME")
         if result == True:
             time.sleep(2)
             return
@@ -59,4 +60,4 @@ class signuppage_f(SeleniumDriver):
                     driver.switch_to.window(handle)
                     handles = driver.window_handles
                     break
-            self.signup_facebook(email,password)
+            self.SignupFacebook(email, password)

@@ -63,33 +63,33 @@ class AppiumDriver():
             locatorType = locatorType.lower()
             byType = self.getByType(locatorType)
             element = self.driver.find_element(byType, locator)
-            self.log.info("Element found with locator: " + locator +
-                          " and  locatorType: " + locatorType)
+            self.log.info("Element found with Locator: " + locator +
+                          " and  LocatorType: " + locatorType)
         except:
-            self.log.info("Element not found with locator: " + locator +
-                          " and  locatorType: " + locatorType)
+            self.log.info("Element not found with Locator: " + locator +
+                          " and  LocatorType: " + locatorType)
         return element
 
     def elementClick(self, locator, locatorType="id"):
         try:
             element = self.getElement(locator, locatorType)
             element.click()
-            self.log.info("Clicked on element with locator: " + locator +
-                          " locatorType: " + locatorType)
+            self.log.info("Clicked on element with Locator: " + locator +
+                          " LocatorType: " + locatorType)
         except:
-            self.log.info("Cannot click on the element with locator: " + locator +
-                          " locatorType: " + locatorType)
+            self.log.info("Cannot click on the element with Locator: " + locator +
+                          " LocatorType: " + locatorType)
             print_stack()
 
     def sendKeys(self, data, locator, locatorType="id"):
         try:
             element = self.getElement(locator, locatorType)
             element.send_keys(data)
-            self.log.info("Sent data on element with locator: " + locator +
-                          " locatorType: " + locatorType)
+            self.log.info("Sent Data on element with Locator: " + locator +
+                          " LocatorType: " + locatorType)
         except:
-            self.log.info("Cannot send data on the element with locator: " + locator +
-                  " locatorType: " + locatorType)
+            self.log.info("Cannot send Data on the element with Locator: " + locator +
+                  " LocatorType: " + locatorType)
             print_stack()
 
     def isElementPresent(self, locator, locatorType="id"):

@@ -10,127 +10,156 @@ import logging
 
 class SeleniumDriver():
 
-    log = cl.customLogger(logging.DEBUG)
+    Log = cl.customLogger(logging.DEBUG)
 
-    def __init__(self, driver):
-        self.driver = driver
+    def __init__(self, Driver):
+        self.Driver = Driver
 
-    def screenShot(self, resultMessage):
+    def ScreenShot1(self, ResultMessage):
         """
         Takes screenshot of the current open web page
         """
-        fileName = resultMessage + "." + str(round(time.time() * 1000)) + ".png"
-        screenshotDirectory = "../screenshots/"
-        relativeFileName = screenshotDirectory + fileName
-        currentDirectory = os.path.dirname(__file__)
-        destinationFile = os.path.join(currentDirectory, relativeFileName)
-        destinationDirectory = os.path.join(currentDirectory, screenshotDirectory)
+        FileName = ResultMessage + "." + str(round(time.time() * 1000)) + ".png"
+        ScreenshotDirectory = "../screenshots/"
+        RelativeFileName = ScreenshotDirectory + FileName
+        CurrentDirectory = os.path.dirname(__file__)
+        DestinationFile = os.path.join(CurrentDirectory, RelativeFileName)
+        DestinationDirectory = os.path.join(CurrentDirectory, ScreenshotDirectory)
 
         try:
-            if not os.path.exists(destinationDirectory):
-                os.makedirs(destinationDirectory)
-            self.driver.save_screenshot(destinationFile)
-            self.log.info("Screenshot save to directory: " + destinationFile)
+            if not os.path.exists(DestinationDirectory):
+                os.makedirs(DestinationDirectory)
+            self.Driver.save_screenshot(DestinationFile)
+            self.Log.info("Screenshot save to directory: " + DestinationFile)
         except:
-            self.log.error("### Exception Occurred when taking screenshot")
+            self.Log.error("### Exception Occurred when taking screenshot")
+
+    def ScreenShot(self, ResultMessage):
+        """
+        Takes screenshot of the current open web page
+        """
+        FileName = ResultMessage + "." + str(round(time.time() * 1000)) + ".png"
+        ScreenshotDirectory = "../screenshots/"
+        RelativeFileName = ScreenshotDirectory + FileName
+        CurrentDirectory = os.path.dirname(__file__)
+        DestinationFile = os.path.join(CurrentDirectory, RelativeFileName)
+        DestinationDirectory = os.path.join(CurrentDirectory, ScreenshotDirectory)
+
+        try:
+            if not os.path.exists(DestinationDirectory):
+                os.makedirs(DestinationDirectory)
+            self.Driver.save_screenshot(DestinationFile)
+            self.Log.info("Screenshot save to directory: " + DestinationFile)
+        except:
+            self.Log.error("### Exception Occurred when taking screenshot")
         print_stack()
 
 
-    def getByType(self, locatorType):
-        locatorType = locatorType.lower()
-        if locatorType == "id":
+    def GetByType(self, LocatorType):
+        LocatorType = LocatorType.lower()
+        if LocatorType == "id":
             return By.ID
-        elif locatorType == "name":
+        elif LocatorType == "name":
             return By.NAME
-        elif locatorType == "xpath":
+        elif LocatorType == "xpath":
             return By.XPATH
-        elif locatorType == "css":
+        elif LocatorType == "css":
             return By.CSS_SELECTOR
-        elif locatorType == "class":
+        elif LocatorType == "class":
             return By.CLASS_NAME
-        elif locatorType == "link":
+        elif LocatorType == "link":
             return By.LINK_TEXT
         else:
-            self.log.info("Locator type " + locatorType +
+            self.Log.info("Locator type " + LocatorType +
                           " not correct/supported")
         return False
 
-    def getElement(self, locator, locatorType="id"):
-        element = None
+    def GetElement(self, Locator, LocatorType="id"):
+        Element = None
         try:
-            locatorType = locatorType.lower()
-            byType = self.getByType(locatorType)
-            element = self.driver.find_element(byType, locator)
-            self.log.info("Element found with locator: " + locator +
-                          " and  locatorType: " + locatorType)
+            LocatorType = LocatorType.lower()
+            byType = self.GetByType(LocatorType)
+            Element = self.Driver.find_element(byType, Locator)
+            self.Log.info("Element found with Locator: " + Locator +
+                          " and  LocatorType: " + LocatorType)
         except:
-            self.log.info("Element not found with locator: " + locator +
-                          " and  locatorType: " + locatorType)
-        return element
+            self.Log.info("Element not found with Locator: " + Locator +
+                          " and  LocatorType: " + LocatorType)
+        return Element
 
-    def elementClick(self, locator, locatorType="id"):
+    def ElementClick(self, Locator, LocatorType="id"):
         try:
-            element = self.getElement(locator, locatorType)
-            element.click()
-            self.log.info("Clicked on element with locator: " + locator +
-                          " locatorType: " + locatorType)
+            Element = self.GetElement(Locator, LocatorType)
+            Element.click()
+            self.Log.info("Clicked on element with Locator: " + Locator +
+                          " LocatorType: " + LocatorType)
         except:
-            self.log.info("Cannot click on the element with locator: " + locator +
-                          " locatorType: " + locatorType)
+            self.Log.info("Cannot click on the element with Locator: " + Locator +
+                          " LocatorType: " + LocatorType)
             print_stack()
 
-    def sendKeys(self, data, locator, locatorType="id"):
+    def SendKeys(self, Data, Locator, LocatorType="id"):
         try:
-            element = self.getElement(locator, locatorType)
-            element.send_keys(data)
-            self.log.info("Sent data on element with locator: " + locator +
-                          " locatorType: " + locatorType)
+            Element = self.GetElement(Locator, LocatorType)
+            Element.send_keys(Data)
+            self.Log.info("Sent Data on element with Locator: " + Locator +
+                          " LocatorType: " + LocatorType)
         except:
-            self.log.info("Cannot send data on the element with locator: " + locator +
-                  " locatorType: " + locatorType)
+            self.Log.info("Cannot send Data on the element with Locator: " + Locator +
+                  " LocatorType: " + LocatorType)
             print_stack()
 
-    def isElementPresent(self, locator, locatorType="id"):
+    def IsElementPresent(self, Locator, LocatorType="id"):
         try:
-            element = self.getElement(locator, locatorType)
-            if element is not None:
-                self.log.info("Element Found")
+            Element = self.GetElement(Locator, LocatorType)
+            if Element is not None:
+                self.Log.info("Element Found")
                 return True
             else:
-                self.log.info("Element not found")
+                self.Log.info("Element not found")
                 return False
         except:
             print("Element not found")
             return False
 
-    def elementPresenceCheck(self, locator, byType):
+    def ElementPresenceCheck(self, Locator, ByType):
         try:
-            elementList = self.driver.find_elements(byType, locator)
-            if len(elementList) > 0:
-                self.log.info("Element Found")
+            ElementList = self.Driver.find_elements(ByType, Locator)
+            if len(ElementList) > 0:
+                self.Log.info("Element Found")
                 return True
             else:
-                self.log.info("Element not found")
+                self.Log.info("Element not found")
                 return False
         except:
-            self.log.info("Element not found")
+            self.Log.info("Element not found")
             return False
 
-    def waitForElement(self, locator, locatorType="id",
-                               timeout=10, pollFrequency=0.5):
-        element = None
+    def WaitForElement(self, Locator, LocatorType="id",
+                       Timeout=10, pollFrequency=0.5):
+        Element = None
         try:
-            byType = self.getByType(locatorType)
-            self.log.info("Waiting for maximum :: " + str(timeout) +
+            ByType = self.GetByType(LocatorType)
+            self.Log.info("Waiting for maximum :: " + str(Timeout) +
                   " :: seconds for element to be clickable")
-            wait = WebDriverWait(self.driver, 10, poll_frequency=1,
+            Wait = WebDriverWait(self.Driver, 10, poll_frequency=1,
                                  ignored_exceptions=[NoSuchElementException,
                                                      ElementNotVisibleException,
                                                      ElementNotSelectableException])
-            element = wait.until(EC.element_to_be_clickable((byType,
+            Element = Wait.until(EC.element_to_be_clickable((ByType,
                                                              "stopFilter_stops-0")))
-            self.log.info("Element appeared on the web page")
+            self.Log.info("Element appeared on the web page")
         except:
-            self.log.info("Element not appeared on the web page")
+            self.Log.info("Element not appeared on the web page")
             print_stack()
-        return element
+        return Element
+
+    def clears(self, Locator, LocatorType="id"):
+        try:
+            element = self.GetElement(Locator, LocatorType)
+            element.clear()
+            print("claer data from element with locator: " + Locator + " locatorType: " + LocatorType)
+        except:
+            print("Cannot claer data from the element with locator: " + Locator +
+                  " locatorType: " + LocatorType)
+            print_stack()

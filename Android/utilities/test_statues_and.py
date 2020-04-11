@@ -7,11 +7,11 @@ from traceback import print_stack
 
 class TestStatus(SeleniumDriver):
 
-    log = cl.customLogger(logging.INFO)
+    Log = cl.customLogger(logging.INFO)
 
-    def __init__(self, driver):
+    def __init__(self, Driver):
 
-        super(TestStatus, self).__init__(driver)
+        super(TestStatus, self).__init__(Driver)
         self.resultList = []
 
     def setResult(self, result, resultMessage):
@@ -23,15 +23,15 @@ class TestStatus(SeleniumDriver):
                 else:
                     self.resultList.append("FAIL")
                     self.log.error("### VERIFICATION FAILED :: + " + resultMessage)
-                    self.screenShot(resultMessage)
+                    self.ScreenShot(resultMessage)
             else:
                 self.resultList.append("FAIL")
                 self.log.error("### VERIFICATION FAILED :: + " + resultMessage)
-                self.screenShot(resultMessage)
+                self.ScreenShot(resultMessage)
         except:
             self.resultList.append("FAIL")
             self.log.error("### Exception Occurred !!!")
-            self.screenShot(resultMessage)
+            self.ScreenShot(resultMessage)
             print_stack()
 
 

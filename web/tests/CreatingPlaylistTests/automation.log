@@ -1,0 +1,484 @@
+04/11/2020 08:23:55 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 08:23:55 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 08:23:55 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 08:23:56 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 08:23:56 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 08:23:56 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 08:23:56 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 08:23:56 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 08:23:58 AM - CreatePlaylist - INFO: Element not found with Locator: Create Playlist and  LocatorType: link
+04/11/2020 08:23:58 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: Create Playlist LocatorType: link
+04/11/2020 08:24:00 AM - CreatePlaylist - INFO: Element not found with Locator: input-holder and  LocatorType: id
+04/11/2020 08:24:00 AM - CreatePlaylist - INFO: Cannot send Data on the element with Locator: input-holder LocatorType: id
+04/11/2020 08:24:02 AM - CreatePlaylist - INFO: Element not found with Locator: CREATE and  LocatorType: link
+04/11/2020 08:24:02 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: CREATE LocatorType: link
+04/11/2020 08:24:29 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 08:24:29 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 08:24:29 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 08:24:29 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 08:24:29 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 08:24:29 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 08:24:29 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 08:24:29 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 08:24:31 AM - CreatePlaylist - INFO: Element not found with Locator: Create Playlist and  LocatorType: link
+04/11/2020 08:24:31 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: Create Playlist LocatorType: link
+04/11/2020 08:24:33 AM - CreatePlaylist - INFO: Element not found with Locator: input-holder and  LocatorType: id
+04/11/2020 08:24:33 AM - CreatePlaylist - INFO: Cannot send Data on the element with Locator: input-holder LocatorType: id
+04/11/2020 08:24:35 AM - CreatePlaylist - INFO: Element not found with Locator: CREATE and  LocatorType: link
+04/11/2020 08:24:35 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: CREATE LocatorType: link
+04/11/2020 08:25:30 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 08:25:30 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 08:25:30 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 08:25:30 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 08:25:30 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 08:25:31 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 08:25:31 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 08:25:31 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 08:25:33 AM - CreatePlaylist - INFO: Element not found with Locator: Create Playlist and  LocatorType: link
+04/11/2020 08:25:33 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: Create Playlist LocatorType: link
+04/11/2020 08:25:35 AM - CreatePlaylist - INFO: Element not found with Locator: input-holder and  LocatorType: id
+04/11/2020 08:25:35 AM - CreatePlaylist - INFO: Cannot send Data on the element with Locator: input-holder LocatorType: id
+04/11/2020 08:25:37 AM - CreatePlaylist - INFO: Element not found with Locator: CREATE and  LocatorType: link
+04/11/2020 08:25:37 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: CREATE LocatorType: link
+04/11/2020 08:48:15 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 08:48:15 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 08:48:15 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 08:48:15 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 08:48:16 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 08:48:16 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 08:48:16 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 08:48:16 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 08:48:16 AM - CreatePlaylist - INFO: Element not found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: class
+04/11/2020 08:48:16 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: class
+04/11/2020 08:48:18 AM - CreatePlaylist - INFO: Element not found with Locator: input-holder and  LocatorType: id
+04/11/2020 08:48:18 AM - CreatePlaylist - INFO: Cannot send Data on the element with Locator: input-holder LocatorType: id
+04/11/2020 08:48:20 AM - CreatePlaylist - INFO: Element not found with Locator: CREATE and  LocatorType: link
+04/11/2020 08:48:20 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: CREATE LocatorType: link
+04/11/2020 08:49:19 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 08:49:19 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 08:49:19 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 08:49:19 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 08:49:19 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 08:49:19 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 08:49:19 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 08:49:19 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 08:49:20 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 08:49:20 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 08:49:20 AM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 08:49:20 AM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 08:49:22 AM - CreatePlaylist - INFO: Element not found with Locator: CREATE and  LocatorType: link
+04/11/2020 08:49:22 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: CREATE LocatorType: link
+04/11/2020 08:50:40 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 08:50:40 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 08:50:40 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 08:50:40 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 08:50:40 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 08:50:40 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 08:50:40 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 08:50:40 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 08:50:40 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 08:50:40 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 08:50:40 AM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 08:50:41 AM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 08:50:41 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 08:50:41 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 09:29:20 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 09:29:20 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 09:29:20 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 09:29:20 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 09:29:20 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 09:29:20 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 09:29:20 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 09:29:20 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 09:29:20 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 09:29:20 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 09:29:20 AM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 09:29:20 AM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 09:29:20 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 09:29:20 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 09:52:17 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 09:52:17 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 09:52:17 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 09:52:18 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 09:52:18 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 09:52:18 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 09:52:18 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 09:52:18 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 09:52:18 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 09:52:18 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 09:52:18 AM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 09:52:18 AM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 09:52:18 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 09:52:18 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 09:54:33 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 09:54:33 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 09:54:33 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 09:54:34 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 09:54:34 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 09:54:34 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 09:54:34 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 09:54:34 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 09:54:34 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 09:54:34 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 09:54:34 AM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 09:54:34 AM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 09:54:34 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 09:54:34 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 10:01:21 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 10:01:21 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 10:01:21 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 10:01:21 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 10:01:21 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 10:01:21 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 10:01:21 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 10:01:21 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 10:01:21 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 10:01:21 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 10:01:21 AM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 10:01:21 AM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 10:01:21 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 10:01:21 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 10:01:24 AM - CreatePlaylist - INFO: Element not found with Locator: CANCEL and  LocatorType: link
+04/11/2020 10:01:24 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: CANCEL LocatorType: link
+04/11/2020 10:01:24 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 10:01:25 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 10:01:27 AM - CreatePlaylist - INFO: Element not found with Locator: sayed and  LocatorType: link
+04/11/2020 10:01:27 AM - CreatePlaylist - INFO: Element not found
+04/11/2020 10:02:41 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 10:02:41 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 10:02:41 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 10:02:41 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 10:02:41 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 10:02:41 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 10:02:41 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 10:02:41 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 10:02:41 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 10:02:41 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 10:02:41 AM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 10:02:41 AM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 10:02:41 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 10:02:41 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 10:02:42 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button and  LocatorType: xpath
+04/11/2020 10:02:42 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button LocatorType: xpath
+04/11/2020 10:02:42 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 10:02:43 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 10:02:45 AM - CreatePlaylist - INFO: Element not found with Locator: sayed and  LocatorType: link
+04/11/2020 10:02:45 AM - CreatePlaylist - INFO: Element not found
+04/11/2020 10:05:42 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 10:05:42 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 10:05:42 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 10:05:42 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 10:05:42 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 10:05:42 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 10:05:42 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 10:05:42 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 10:05:42 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 10:05:42 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 10:05:42 AM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 10:05:42 AM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 10:05:43 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 10:05:43 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 10:05:43 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button and  LocatorType: xpath
+04/11/2020 10:05:43 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button LocatorType: xpath
+04/11/2020 10:05:43 AM - CreatePlaylist - INFO: Element found with Locator: Library and  LocatorType: link
+04/11/2020 10:05:44 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: Library LocatorType: link
+04/11/2020 10:05:46 AM - CreatePlaylist - INFO: Element not found with Locator: sayed and  LocatorType: link
+04/11/2020 10:05:46 AM - CreatePlaylist - INFO: Element not found
+04/11/2020 10:08:28 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 10:08:28 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 10:08:28 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 10:08:28 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 10:08:28 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 10:08:28 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 10:08:28 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 10:08:28 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 10:08:28 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 10:08:28 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 10:08:29 AM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 10:08:29 AM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 10:08:29 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 10:08:29 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 10:08:29 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button and  LocatorType: xpath
+04/11/2020 10:08:29 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button LocatorType: xpath
+04/11/2020 10:08:29 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 10:08:30 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 10:08:32 AM - CreatePlaylist - INFO: Element not found with Locator: sayed and  LocatorType: link
+04/11/2020 10:08:32 AM - CreatePlaylist - INFO: Element not found
+04/11/2020 10:09:26 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 10:09:26 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 10:09:26 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 10:09:27 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 10:09:27 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 10:09:27 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 10:09:27 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 10:09:27 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 10:09:27 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 10:09:27 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 10:09:27 AM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 10:09:27 AM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 10:09:27 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 10:09:27 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 10:09:29 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button and  LocatorType: xpath
+04/11/2020 10:09:29 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button LocatorType: xpath
+04/11/2020 10:09:29 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 10:09:30 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 10:09:32 AM - CreatePlaylist - INFO: Element not found with Locator: sayed and  LocatorType: link
+04/11/2020 10:09:32 AM - CreatePlaylist - INFO: Element not found
+04/11/2020 10:10:50 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 10:10:50 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 10:10:50 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 10:10:50 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 10:10:50 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 10:10:50 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 10:10:50 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 10:10:50 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 10:10:50 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 10:10:50 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 10:10:50 AM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 10:10:50 AM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 10:10:50 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 10:10:50 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 10:10:51 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button and  LocatorType: xpath
+04/11/2020 10:10:51 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button LocatorType: xpath
+04/11/2020 10:10:51 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 10:10:52 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 10:10:55 AM - CreatePlaylist - INFO: Element not found with Locator: sayed and  LocatorType: link
+04/11/2020 10:10:55 AM - CreatePlaylist - INFO: Element not found
+04/11/2020 10:12:11 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 10:12:11 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 10:12:11 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 10:12:11 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 10:12:11 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 10:12:11 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 10:12:12 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 10:12:12 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 10:12:12 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 10:12:12 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 10:12:12 AM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 10:12:12 AM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 10:12:12 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 10:12:12 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 10:12:12 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button and  LocatorType: xpath
+04/11/2020 10:12:12 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button LocatorType: xpath
+04/11/2020 10:12:13 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 10:12:14 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 10:12:15 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 10:12:16 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 10:12:18 AM - CreatePlaylist - INFO: Element not found with Locator: sayed and  LocatorType: link
+04/11/2020 10:12:18 AM - CreatePlaylist - INFO: Element not found
+04/11/2020 10:16:17 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 10:16:17 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 10:16:17 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 10:16:17 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 10:16:17 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 10:16:17 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 10:16:17 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 10:16:17 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 10:16:18 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 10:16:18 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 10:16:18 AM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 10:16:18 AM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 10:16:18 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 10:16:18 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 10:16:18 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button and  LocatorType: xpath
+04/11/2020 10:16:18 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button LocatorType: xpath
+04/11/2020 11:11:09 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 11:11:09 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 11:11:09 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 11:11:09 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 11:11:09 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 11:11:09 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 11:11:09 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 11:11:09 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 11:11:10 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 11:11:10 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 11:11:55 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 11:11:55 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 11:11:55 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 11:11:56 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 11:11:56 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 11:11:56 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 11:11:56 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 11:11:56 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 11:11:56 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 11:11:56 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 11:11:58 AM - CreatePlaylist - INFO: Element not found with Locator: sayed and  LocatorType: link
+04/11/2020 11:11:58 AM - CreatePlaylist - INFO: Element not found
+04/11/2020 11:13:42 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 11:13:42 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 11:13:42 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 11:13:43 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 11:13:43 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 11:13:43 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 11:13:43 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 11:13:43 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 11:13:43 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 11:13:43 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 11:13:45 AM - CreatePlaylist - INFO: Element not found with Locator: sayed and  LocatorType: link
+04/11/2020 11:13:45 AM - CreatePlaylist - INFO: Element not found
+04/11/2020 11:13:45 AM - TestStatus - ERROR: ### VERIFICATION FAILED :: + Making playlist done successfully
+04/11/2020 11:13:45 AM - SeleniumDriver - INFO: Screenshot save to directory: C:\Users\Eslam\PycharmProjects\web\web\base\../screenshots/Making playlist done successfully.1586596425456.png
+04/11/2020 11:13:45 AM - TestStatus - ERROR: test_MakingPlaylist ### TEST FAILED
+04/11/2020 11:19:10 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 11:19:10 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 11:19:10 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 11:19:11 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 11:19:11 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 11:19:11 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 11:19:11 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 11:19:11 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 11:19:11 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 11:19:11 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 11:19:11 AM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 11:19:11 AM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 11:19:11 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 11:19:11 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 11:19:12 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button and  LocatorType: xpath
+04/11/2020 11:19:12 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button LocatorType: xpath
+04/11/2020 11:20:00 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 11:20:00 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 11:20:00 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 11:20:00 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 11:20:00 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 11:20:00 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 11:20:00 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 11:20:00 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 11:20:00 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 11:20:00 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 11:20:00 AM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 11:20:00 AM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 11:20:00 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 11:20:00 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 11:20:01 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button and  LocatorType: xpath
+04/11/2020 11:20:01 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button LocatorType: xpath
+04/11/2020 11:20:01 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 11:20:02 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 11:32:01 AM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 11:32:01 AM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 11:32:01 AM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 11:32:01 AM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 11:32:01 AM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 11:32:01 AM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 11:32:01 AM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 11:32:01 AM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 11:32:02 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 11:32:02 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 11:32:02 AM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 11:32:02 AM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 11:32:02 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 11:32:02 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 11:32:02 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button and  LocatorType: xpath
+04/11/2020 11:32:02 AM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button LocatorType: xpath
+04/11/2020 11:32:02 AM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 11:32:03 AM - CreatePlaylist - INFO: Cannot click on the element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 01:47:14 PM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 01:47:14 PM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 01:47:14 PM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 01:47:14 PM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 01:47:14 PM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 01:47:14 PM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 01:47:14 PM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 01:47:14 PM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 01:47:15 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 01:47:15 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 01:47:15 PM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 01:47:15 PM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 01:47:15 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 01:47:16 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 01:47:16 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button and  LocatorType: xpath
+04/11/2020 01:47:16 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button LocatorType: xpath
+04/11/2020 01:47:17 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 01:47:17 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 01:48:08 PM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 01:48:09 PM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 01:48:09 PM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 01:48:09 PM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 01:48:09 PM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 01:48:09 PM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 01:48:09 PM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 01:48:09 PM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 01:48:10 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 01:48:10 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 01:48:10 PM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 01:48:10 PM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 01:48:10 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 01:48:10 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 01:48:11 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button and  LocatorType: xpath
+04/11/2020 01:48:11 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button LocatorType: xpath
+04/11/2020 01:48:11 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 01:48:12 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 01:49:40 PM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 01:49:40 PM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 01:49:40 PM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 01:49:40 PM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 01:49:41 PM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 01:49:41 PM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 01:49:41 PM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 01:49:41 PM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 01:49:41 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 01:49:41 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 01:49:41 PM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 01:49:42 PM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 01:49:42 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 01:49:42 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 01:49:42 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button and  LocatorType: xpath
+04/11/2020 01:49:42 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button LocatorType: xpath
+04/11/2020 01:49:43 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 01:49:43 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 01:50:49 PM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 01:50:50 PM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 01:50:50 PM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 01:50:50 PM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 01:50:50 PM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 01:50:50 PM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 01:50:50 PM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 01:50:50 PM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 01:50:51 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 01:50:51 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 01:50:51 PM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 01:50:51 PM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 01:50:51 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 01:50:51 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 01:50:52 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button and  LocatorType: xpath
+04/11/2020 01:50:52 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button LocatorType: xpath
+04/11/2020 01:50:52 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 01:50:53 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 01:50:54 PM - SeleniumDriver - INFO: Screenshot save to directory: C:\Users\Eslam\PycharmProjects\web\web\base\../screenshots/Verifying Making Playlist.1586605853581.png
+04/11/2020 01:52:23 PM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 01:52:23 PM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 01:52:23 PM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 01:52:24 PM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 01:52:24 PM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 01:52:24 PM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 01:52:24 PM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 01:52:24 PM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 01:52:24 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 01:52:24 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 01:52:24 PM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 01:52:25 PM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 01:52:25 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 01:52:25 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 01:52:25 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button and  LocatorType: xpath
+04/11/2020 01:52:26 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button LocatorType: xpath
+04/11/2020 01:52:26 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 01:52:26 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 01:52:27 PM - SeleniumDriver - INFO: Screenshot save to directory: C:\Users\Eslam\PycharmProjects\web\web\base\../screenshots/Verifying Making Playlist.1586605947042.png
+04/11/2020 01:53:51 PM - signuppage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 01:53:51 PM - signuppage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 01:53:51 PM - signuppage - INFO: Element found with Locator: email and  LocatorType: name
+04/11/2020 01:53:51 PM - signuppage - INFO: Sent Data on element with Locator: email LocatorType: name
+04/11/2020 01:53:51 PM - signuppage - INFO: Element found with Locator: password and  LocatorType: name
+04/11/2020 01:53:51 PM - signuppage - INFO: Sent Data on element with Locator: password LocatorType: name
+04/11/2020 01:53:51 PM - signuppage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button and  LocatorType: xpath
+04/11/2020 01:53:52 PM - signuppage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[5]/form/div[5]/button LocatorType: xpath
+04/11/2020 01:53:52 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span and  LocatorType: xpath
+04/11/2020 01:53:52 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[2]/div/div[1]/div/span LocatorType: xpath
+04/11/2020 01:53:52 PM - CreatePlaylist - INFO: Element found with Locator: input-holder and  LocatorType: id
+04/11/2020 01:53:52 PM - CreatePlaylist - INFO: Sent Data on element with Locator: input-holder LocatorType: id
+04/11/2020 01:53:52 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button and  LocatorType: xpath
+04/11/2020 01:53:52 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[2]/button LocatorType: xpath
+04/11/2020 01:53:53 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button and  LocatorType: xpath
+04/11/2020 01:53:53 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div[3]/div/div/div/div/div/div[3]/div[1]/button LocatorType: xpath
+04/11/2020 01:53:54 PM - CreatePlaylist - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div and  LocatorType: xpath
+04/11/2020 01:53:54 PM - CreatePlaylist - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div[1]/div[3]/a/div LocatorType: xpath
+04/11/2020 01:53:55 PM - SeleniumDriver - INFO: Screenshot save to directory: C:\Users\Eslam\PycharmProjects\web\web\base\../screenshots/Verifying Making Playlist.1586606034789.png

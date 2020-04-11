@@ -1,8 +1,7 @@
 import pytest
-from selenium import webdriver
 from web.base.webdriverfactory import WebDriverFactory
 from web.pages.home.signup_page import signuppage
-from web.pages.home.Home_page import homepage
+
 
 #########################################################################################
 @pytest.yield_fixture()
@@ -15,9 +14,9 @@ def signup_setUp():
 def oneTime_signup_SetUp(request, browser):
     print("Running one time setUp")
     wdf = WebDriverFactory(browser)
-    driver = wdf.getWebDriverInstance()
+    driver = wdf.GetWebDriverInstance()
     su=signuppage(driver)
-    su.click_signup_link()
+    su.ClickSignupLink()
 
     if request.cls is not None:
         request.cls.driver = driver
@@ -30,7 +29,7 @@ def oneTime_signup_SetUp(request, browser):
 def oneTime_home_SetUp(request, browser):
     print("Running one time setUp")
     wdf = WebDriverFactory(browser)
-    driver = wdf.getWebDriverInstance()
+    driver = wdf.GetWebDriverInstance()
 
 
     if request.cls is not None:

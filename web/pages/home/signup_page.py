@@ -2,102 +2,142 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
 from web.base.selenium_driver import SeleniumDriver
+from selenium.webdriver import ActionChains
 import logging
 import web.utilities.custom_logger as cl
 
 class signuppage(SeleniumDriver):
 
-    log = cl.customLogger(logging.DEBUG)
+    Log = cl.customLogger(logging.DEBUG)
 
-    def __init__(self,driver):
-        self.driver=driver
+    def __init__(self, Driver):
+        self.Driver=Driver
     #locators
-    _signup_link="Sign up"
-    _email_field="register-email"
-    _confirm_email_field="register-confirm-email"
-    _password_field="register-password"
-    _display_field="register-displayname"
-    _day_field="register-dob-day"
-    _month_field="register-dob-month"
-    _year_field="register-dob-year"
-    _male_field="register-male"
-    _female_field="register-female"
-    _signup_btn="register-button-email-submit"
-    _spotify_logo="/html/body/div[2]/div[2]/div[1]/div/div/a"
+    SignupLink= "Sign-up"
+    EmailField= "/html/body/div/div/div[2]/div[4]/form/div[1]/input"
+    ConfirmEmailField= "/html/body/div/div/div[2]/div[4]/form/div[3]/input"
+    PasswordField= "/html/body/div/div/div[2]/div[4]/form/div[5]/input"
+    DisplayField= "/html/body/div/div/div[2]/div[4]/form/div[7]/input"
+    Date="/html/body/div/div/div[2]/div[4]/form/div[9]/input"
+    DayField= "register-dob-day"
+    MonthField= "register-dob-month"
+    YearField= "register-dob-year"
+    MaleField= "/html/body/div/div/div[2]/div[4]/form/div[10]/p/label[1]"
 
-
+    FemaleField= "/html/body/div/div/div[2]/div[4]/form/div[10]/p/label[2]"
+    SignupBtn= "/html/body/div/div/div[2]/div[4]/form/div[12]/div[2]/button"
+    SpotifyLogo= "/html/body/div[2]/div[2]/div[1]/div/div/a"
+    ItemDateClick=""
+    LoginLink="Login"
+    EmailLoginFieldName="email"
+    PasswordLoginFieldName="password"
+    LoginBtnLink="/html/body/div/div/div[2]/div[5]/form/div[5]/button"
 
     ######################################################################
+    def ClickLoginLink(self):
+        self.ElementClick(self.LoginLink,"link")
+    def SendEmailLogin(self,email):
+        self.SendKeys(email,self.EmailLoginFieldName,"name")
+    def SendPassLogin(self,Pass):
+        self.SendKeys(Pass,self.PasswordLoginFieldName,"name")
+    def ClickLoginBtn(self):
+        self.ElementClick(self.LoginBtnLink,"xpath")
+    def LoginFN(self,email,Pass):
+        self.ClickLoginLink()
+        self.SendEmailLogin(email)
+        self.SendPassLogin(Pass)
+        self.ClickLoginBtn()
 
-    def click_spotify_logo(self):
-        self.elementClick(self._spotify_logo,"xpath")
-    def click_signup_link(self):
-        self.elementClick(self._signup_link,locatorType="link")
-    def enter_email(self,email):
-        self.sendKeys(email,self._email_field)
-    def enter_confirm_email(self,confirm_email):
-        self.sendKeys(confirm_email,self._confirm_email_field)
-    def enter_password(self,password):
-        self.sendKeys(password,self._password_field)
-    def enter_display(self,display):
-        self.sendKeys(display,self._display_field)
-    def enter_day(self,day):
-        self.sendKeys(day,self._day_field)
-    def enter_year(self,year):
-        self.sendKeys(year,self._year_field)
-    def click_signup_btn(self):
-        self.elementClick(self._signup_btn,locatorType="id")
+    def ClickSpotifyLogo(self):
+        self.ElementClick(self.SpotifyLogo, "xpath")
+    def ClickSignupLink(self):
+        self.ElementClick(self.SignupLink, LocatorType="link")
+    def EnterEmail(self, email):
+        self.SendKeys(email, self.EmailField,"xpath")
+    def EnterConfirmEmail(self, confirm_email):
+        self.SendKeys(confirm_email, self.ConfirmEmailField,"xpath")
+    def EnterPassword(self, password):
+        self.SendKeys(password, self.PasswordField,"xpath")
+    def EnterDisplay(self, display):
+        self.SendKeys(display, self.DisplayField,"xpath")
+    def EnterDay(self, day):
+        self.SendKeys(day, self.DayField)
+    def EnterYear(self, year):
+        self.SendKeys(year, self.YearField)
+    def ClickSignupBtn(self):
+        self.ElementClick(self.SignupBtn, LocatorType="xpath")
+
+    def hoverDate(self):
+        result = self.Driver.find_element_by_xpath(self.Date)
+        Actions=ActionChains(self.Driver)
+        Actions.move_to_element(self.FindDate()).perform()
+
+    def SendDate(self,date):
+        self.SendKeys(date,self.Date,"xpath")
 
 ###########################################################
-    def get_month_field(self):
-        return self.driver.find_element_by_id(self._month_field)
-    def enter_month(self,month):
-        se=Select(self.get_month_field())
+    def GetMonthField(self):
+        return self.Driver.find_element_by_id(self.MonthField)
+    def EnterMonth(self, month):
+        se=Select(self.GetMonthField())
         se.select_by_index(month)
 ###########################################################
-    def get_and_click_gender_field(self, gender):
+    def GetAndClickGenderField(self, gender):
         if gender == "male" or "Male":
-            type = self.driver.find_element_by_id(self._male_field)
+            type = self.Driver.find_element_by_xpath(self.MaleField)
             type.click()
         elif gender == "Female" or "female":
-            type = self.driver.find_element_by_id(self._female_field)
+            type = self.Driver.find_element_by_xpath(self.FemaleField)
             type.click()
         else:
             return
 #################################################################################
-    def signup(self, email="",confirm_email="", password="",display_name="",day="",index_of_month="",year="",gender=""):
-        self.clearFields()
-        self.enter_email(email)
-        self.enter_confirm_email(confirm_email)
-        self.enter_password(password)
-        self.enter_display(display_name)
-        self.enter_day(day)
-        self.enter_month(index_of_month)
-        self.enter_year(year)
-        self.get_and_click_gender_field(gender)
-        self.click_signup_btn()
-
-    def verifyLoginSuccessful(self):
-        result = self.isElementPresent("svelte-kdyqkb",
-                                       locatorType="class")
+    def Signup(self, email="", confirm_email="", password="", display_name="",Date="", gender=""):
+        self.ClearEmail()
+        self.EnterEmail(email)
+        self.ClearConfirmEmail()
+        self.EnterConfirmEmail(confirm_email)
+        self.ClearPassword()
+        self.EnterPassword(password)
+        self.ClearDisplayName()
+        self.EnterDisplay(display_name)
+        #self.EnterDay(day)
+        #self.EnterMonth(index_of_month)
+        #self.EnterYear(year)
+        self.SendDate(Date)
+        self.GetAndClickGenderField(gender)
+        self.ClickSignupBtn()
+    def VerifyLoginSuccessful(self):
+        result = self.IsElementPresent("nav-btn",LocatorType="id")
         return result
-
     def verifyLoginFailed(self):
-       result = self.isElementPresent("has-error",locatorType="class")
-
-       return result
-
+       result = self.IsElementPresent("nav-btn", LocatorType="id")
+       return not result
     def clearFields(self):
-        emailField = self.getElement(locator=self._email_field)
-        emailField.clear()
-        confirmEmailField = self.getElement(locator=self._confirm_email_field)
-        confirmEmailField.clear()
-        passwordField = self.getElement(locator=self._password_field)
-        passwordField.clear()
-        displayField = self.getElement(locator=self._display_field)
-        displayField.clear()
-        dayField = self.getElement(locator=self._day_field)
-        dayField.clear()
-        yearField = self.getElement(locator=self._year_field)
-        yearField.clear()
+        EmailField = self.GetElement(Locator=self.EmailField,LocatorType="xpath")
+        EmailField.clear()
+        ConfirmEmailField = self.GetElement(Locator=self.ConfirmEmailField,LocatorType="xpath")
+        ConfirmEmailField.clear()
+        PasswordField = self.GetElement(Locator=self.PasswordField,LocatorType="xpath")
+        PasswordField.clear()
+        DisplayField = self.GetElement(Locator=self.DisplayField,LocatorType="xpath")
+        DisplayField.clear()
+        '''DayField = self.GetElement(Locator=self.DayField)
+        DayField.clear()
+        YearField = self.GetElement(Locator=self.YearField)
+        YearField.clear()'''
+    def ClearEmail(self):
+        EmailField = self.GetElement(Locator=self.EmailField, LocatorType="xpath")
+        EmailField.clear()
+    def ClearConfirmEmail(self):
+        ConfirmEmailField = self.GetElement(Locator=self.ConfirmEmailField, LocatorType="xpath")
+        ConfirmEmailField.clear()
+    def ClearPassword(self):
+        PasswordField = self.GetElement(Locator=self.PasswordField, LocatorType="xpath")
+        PasswordField.clear()
+    def ClearDisplayName(self):
+        DisplayField = self.GetElement(Locator=self.DisplayField, LocatorType="xpath")
+        DisplayField.clear()
+
+
 

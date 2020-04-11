@@ -9,25 +9,25 @@ class WebDriverFactory():
         self.browser = browser
 
 
-    def getWebDriverInstance(self):
+    def GetWebDriverInstance(self):
 
-        baseURL = "https://www.spotify.com/uk/"
+        BaseURL = "http://23.96.41.241/"
         if self.browser == "iexplorer":
-            # Set ie driver
-            driver = webdriver.Ie(executable_path="C:\\Users\\Eslam\\PycharmProjects\\web\\drivers\\IEDriverServer.exe")
+            # Set ie Driver
+            Driver = webdriver.Ie(executable_path="C:\\Users\\Eslam\\PycharmProjects\\web\\drivers\\IEDriverServer.exe")
         elif self.browser == "firefox":
-            driver = webdriver.Firefox(executable_path="C:\\Users\\Eslam\\PycharmProjects\\web\\drivers\\ geckodriver.exe")
+            Driver = webdriver.Firefox(executable_path="C:\\Users\\Eslam\\PycharmProjects\\web\\drivers\\ geckodriver.exe")
         elif self.browser == "chrome":
-            # Set chrome driver
-            driver = webdriver.Chrome(executable_path="C:\\Users\\Eslam\\PycharmProjects\\web\\drivers\\chromedriver.exe")
+            # Set chrome Driver
+            Driver = webdriver.Chrome(executable_path="C:\\Users\\Eslam\\PycharmProjects\\web\\drivers\\chromedriver.exe")
         else:
-            driver = webdriver.Chrome(executable_path="C:\\Users\\Eslam\\PycharmProjects\\web\\drivers\\chromedriver.exe")
+            Driver = webdriver.Chrome(executable_path="C:\\Users\\Eslam\\PycharmProjects\\web\\drivers\\chromedriver.exe")
         # Setting Driver Implicit Time out for An Element
-        driver.implicitly_wait(3)
+        Driver.implicitly_wait(2)
         # Maximize the window
-        driver.maximize_window()
+        Driver.maximize_window()
         # Loading browser with App URL
-        driver.get(baseURL)
+        Driver.get(BaseURL)
 
-        return driver
+        return Driver
 

@@ -1,0 +1,266 @@
+04/11/2020 01:26:26 AM - homepage - INFO: Element found with Locator: Web Player and  LocatorType: link
+04/11/2020 01:26:26 AM - homepage - INFO: Clicked on element with Locator: Web Player LocatorType: link
+04/11/2020 01:26:27 AM - homepage - INFO: Element found with Locator: Web Player and  LocatorType: link
+04/11/2020 01:26:27 AM - homepage - INFO: Clicked on element with Locator: Web Player LocatorType: link
+04/11/2020 01:26:29 AM - homepage - INFO: Element not found with Locator: /html/body/div[3]/footer/div/div/div[4]/a[3]/i and  LocatorType: xpath
+04/11/2020 01:26:29 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div[3]/footer/div/div/div[4]/a[3]/i LocatorType: xpath
+04/11/2020 01:26:32 AM - homepage - INFO: Element not found with Locator: /html/body/div[3]/footer/div/div/div[4]/a[2]/i and  LocatorType: xpath
+04/11/2020 01:26:32 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div[3]/footer/div/div/div[4]/a[2]/i LocatorType: xpath
+04/11/2020 01:26:34 AM - homepage - INFO: Element not found with Locator: About and  LocatorType: link
+04/11/2020 01:26:34 AM - homepage - INFO: Cannot click on the element with Locator: About LocatorType: link
+04/11/2020 01:36:40 AM - homepage - INFO: Element found with Locator: Web Player and  LocatorType: link
+04/11/2020 01:36:40 AM - homepage - INFO: Clicked on element with Locator: Web Player LocatorType: link
+04/11/2020 01:36:42 AM - homepage - INFO: Element not found with Locator: /html/body/div[3]/footer/div/div/div[4]/a[3]/i and  LocatorType: xpath
+04/11/2020 01:36:42 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div[3]/footer/div/div/div[4]/a[3]/i LocatorType: xpath
+04/11/2020 01:36:44 AM - homepage - INFO: Element not found with Locator: /html/body/div[3]/footer/div/div/div[4]/a[2]/i and  LocatorType: xpath
+04/11/2020 01:36:44 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div[3]/footer/div/div/div[4]/a[2]/i LocatorType: xpath
+04/11/2020 01:36:46 AM - homepage - INFO: Element not found with Locator: About and  LocatorType: link
+04/11/2020 01:36:46 AM - homepage - INFO: Cannot click on the element with Locator: About LocatorType: link
+04/11/2020 01:36:47 AM - homepage - INFO: Element found with Locator: Signup and  LocatorType: link
+04/11/2020 01:36:47 AM - homepage - INFO: Cannot click on the element with Locator: Signup LocatorType: link
+04/11/2020 01:36:48 AM - homepage - INFO: Element not found with Locator: /html/body/div/div/nav/div/div/a[2] and  LocatorType: xpath
+04/11/2020 01:36:48 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div/div/nav/div/div/a[2] LocatorType: xpath
+04/11/2020 01:49:44 AM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 01:49:44 AM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 01:49:45 AM - homepage - INFO: Element found with Locator: /html/body/div/div/nav/div/div/a[2] and  LocatorType: xpath
+04/11/2020 01:49:45 AM - homepage - INFO: Clicked on element with Locator: /html/body/div/div/nav/div/div/a[2] LocatorType: xpath
+04/11/2020 01:49:47 AM - homepage - INFO: Element found with Locator: Premium and  LocatorType: link
+04/11/2020 01:49:47 AM - homepage - INFO: Clicked on element with Locator: Premium LocatorType: link
+04/11/2020 01:49:48 AM - homepage - INFO: Element found with Locator: Download and  LocatorType: link
+04/11/2020 01:49:48 AM - homepage - INFO: Clicked on element with Locator: Download LocatorType: link
+04/11/2020 01:49:49 AM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 01:49:49 AM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 01:49:50 AM - homepage - INFO: Element found with Locator: Web Player and  LocatorType: link
+04/11/2020 01:49:50 AM - homepage - INFO: Clicked on element with Locator: Web Player LocatorType: link
+04/11/2020 01:49:52 AM - homepage - INFO: Element not found with Locator: /html/body/div[3]/footer/div/div/div[4]/a[3]/i and  LocatorType: xpath
+04/11/2020 01:49:52 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div[3]/footer/div/div/div[4]/a[3]/i LocatorType: xpath
+04/11/2020 01:49:55 AM - homepage - INFO: Element not found with Locator: /html/body/div[3]/footer/div/div/div[4]/a[2]/i and  LocatorType: xpath
+04/11/2020 01:49:55 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div[3]/footer/div/div/div[4]/a[2]/i LocatorType: xpath
+04/11/2020 01:49:57 AM - homepage - INFO: Element not found with Locator: About and  LocatorType: link
+04/11/2020 01:49:57 AM - homepage - INFO: Cannot click on the element with Locator: About LocatorType: link
+04/11/2020 01:51:44 AM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 01:51:44 AM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 01:51:45 AM - homepage - INFO: Element found with Locator: /html/body/div/div/nav/div/div/a[2] and  LocatorType: xpath
+04/11/2020 01:51:45 AM - homepage - INFO: Clicked on element with Locator: /html/body/div/div/nav/div/div/a[2] LocatorType: xpath
+04/11/2020 01:51:46 AM - homepage - INFO: Element found with Locator: Premium and  LocatorType: link
+04/11/2020 01:51:46 AM - homepage - INFO: Clicked on element with Locator: Premium LocatorType: link
+04/11/2020 01:51:47 AM - homepage - INFO: Element found with Locator: Download and  LocatorType: link
+04/11/2020 01:51:48 AM - homepage - INFO: Clicked on element with Locator: Download LocatorType: link
+04/11/2020 01:51:49 AM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 01:51:49 AM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 01:51:50 AM - homepage - INFO: Element found with Locator: Web Player and  LocatorType: link
+04/11/2020 01:51:50 AM - homepage - INFO: Clicked on element with Locator: Web Player LocatorType: link
+04/11/2020 01:51:53 AM - homepage - INFO: Element not found with Locator: /html/body/div[3]/footer/div/div/div[4]/a[3]/i and  LocatorType: xpath
+04/11/2020 01:51:53 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div[3]/footer/div/div/div[4]/a[3]/i LocatorType: xpath
+04/11/2020 01:51:55 AM - homepage - INFO: Element not found with Locator: /html/body/div[3]/footer/div/div/div[4]/a[2]/i and  LocatorType: xpath
+04/11/2020 01:51:55 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div[3]/footer/div/div/div[4]/a[2]/i LocatorType: xpath
+04/11/2020 01:51:58 AM - homepage - INFO: Element not found with Locator: About and  LocatorType: link
+04/11/2020 01:51:58 AM - homepage - INFO: Cannot click on the element with Locator: About LocatorType: link
+04/11/2020 02:06:54 AM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 02:06:54 AM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 02:06:55 AM - homepage - INFO: Element found with Locator: /html/body/div/div/nav/div/div/a[2] and  LocatorType: xpath
+04/11/2020 02:06:55 AM - homepage - INFO: Clicked on element with Locator: /html/body/div/div/nav/div/div/a[2] LocatorType: xpath
+04/11/2020 02:06:56 AM - homepage - INFO: Element found with Locator: Premium and  LocatorType: link
+04/11/2020 02:06:56 AM - homepage - INFO: Clicked on element with Locator: Premium LocatorType: link
+04/11/2020 02:06:57 AM - homepage - INFO: Element found with Locator: Download and  LocatorType: link
+04/11/2020 02:06:57 AM - homepage - INFO: Clicked on element with Locator: Download LocatorType: link
+04/11/2020 02:06:59 AM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 02:06:59 AM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 02:07:02 AM - homepage - INFO: Element not found with Locator: /html/body/div/div/div[2]/div[4]/div/a[3]/h4 and  LocatorType: link
+04/11/2020 02:07:02 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div/div/div[2]/div[4]/div/a[3]/h4 LocatorType: link
+04/11/2020 02:07:04 AM - homepage - INFO: Element not found with Locator: /html/body/div[3]/footer/div/div/div[4]/a[3]/i and  LocatorType: xpath
+04/11/2020 02:07:04 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div[3]/footer/div/div/div[4]/a[3]/i LocatorType: xpath
+04/11/2020 02:07:07 AM - homepage - INFO: Element not found with Locator: /html/body/div[3]/footer/div/div/div[4]/a[2]/i and  LocatorType: xpath
+04/11/2020 02:07:07 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div[3]/footer/div/div/div[4]/a[2]/i LocatorType: xpath
+04/11/2020 02:07:10 AM - homepage - INFO: Element not found with Locator: /html/body/div/div/div[2]/div[2]/div/a[2]/h4 and  LocatorType: link
+04/11/2020 02:07:10 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div/div/div[2]/div[2]/div/a[2]/h4 LocatorType: link
+04/11/2020 02:52:04 AM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 02:52:05 AM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 02:52:07 AM - homepage - INFO: Element not found with Locator: Terms and Conditions of Use and  LocatorType: id
+04/11/2020 02:52:07 AM - homepage - INFO: Cannot click on the element with Locator: Terms and Conditions of Use LocatorType: id
+04/11/2020 02:52:07 AM - homepage - INFO: Element found with Locator: Privacy Policy and  LocatorType: link
+04/11/2020 02:52:07 AM - homepage - INFO: Clicked on element with Locator: Privacy Policy LocatorType: link
+04/11/2020 02:57:43 AM - homepage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 02:57:43 AM - homepage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 02:57:45 AM - homepage - INFO: Element not found with Locator: Terms and Conditions of Use and  LocatorType: id
+04/11/2020 02:57:45 AM - homepage - INFO: Cannot click on the element with Locator: Terms and Conditions of Use LocatorType: id
+04/11/2020 02:57:47 AM - homepage - INFO: Element not found with Locator:  Privacy Policy and  LocatorType: link
+04/11/2020 02:57:47 AM - homepage - INFO: Cannot click on the element with Locator:  Privacy Policy LocatorType: link
+04/11/2020 02:59:01 AM - homepage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 02:59:01 AM - homepage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 02:59:03 AM - homepage - INFO: Element not found with Locator:  Terms & Conditions   and  LocatorType: link
+04/11/2020 02:59:03 AM - homepage - INFO: Cannot click on the element with Locator:  Terms & Conditions   LocatorType: link
+04/11/2020 02:59:05 AM - homepage - INFO: Element not found with Locator:  Privacy Policy and  LocatorType: link
+04/11/2020 02:59:05 AM - homepage - INFO: Cannot click on the element with Locator:  Privacy Policy LocatorType: link
+04/11/2020 02:59:48 AM - homepage - INFO: Element found with Locator: Download and  LocatorType: link
+04/11/2020 02:59:48 AM - homepage - INFO: Clicked on element with Locator: Download LocatorType: link
+04/11/2020 02:59:50 AM - homepage - INFO: Element not found with Locator:  try again  and  LocatorType: link
+04/11/2020 02:59:50 AM - homepage - INFO: Cannot click on the element with Locator:  try again  LocatorType: link
+04/11/2020 03:02:05 AM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 03:02:05 AM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 03:02:05 AM - homepage - INFO: Element found with Locator: Terms and Conditions of Use and  LocatorType: link
+04/11/2020 03:02:05 AM - homepage - INFO: Clicked on element with Locator: Terms and Conditions of Use LocatorType: link
+04/11/2020 03:02:05 AM - homepage - INFO: Element found with Locator: Privacy Policy and  LocatorType: link
+04/11/2020 03:02:05 AM - homepage - INFO: Clicked on element with Locator: Privacy Policy LocatorType: link
+04/11/2020 03:04:33 AM - homepage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[4]/div/a[3]/h4 and  LocatorType: xpath
+04/11/2020 03:04:33 AM - homepage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[4]/div/a[3]/h4 LocatorType: xpath
+04/11/2020 03:04:35 AM - homepage - INFO: Element not found with Locator: /html/body/div[3]/footer/div/div/div[4]/a[3]/i and  LocatorType: xpath
+04/11/2020 03:04:35 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div[3]/footer/div/div/div[4]/a[3]/i LocatorType: xpath
+04/11/2020 03:04:38 AM - homepage - INFO: Element not found with Locator: /html/body/div[3]/footer/div/div/div[4]/a[2]/i and  LocatorType: xpath
+04/11/2020 03:04:38 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div[3]/footer/div/div/div[4]/a[2]/i LocatorType: xpath
+04/11/2020 03:04:39 AM - homepage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[2]/div/a[2]/h4 and  LocatorType: xpath
+04/11/2020 03:04:39 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div/div/div[2]/div[2]/div/a[2]/h4 LocatorType: xpath
+04/11/2020 03:05:42 AM - homepage - INFO: Element not found with Locator: /html/body/div[3]/footer/div/div/div[4]/a[3]/i and  LocatorType: xpath
+04/11/2020 03:05:42 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div[3]/footer/div/div/div[4]/a[3]/i LocatorType: xpath
+04/11/2020 03:05:45 AM - homepage - INFO: Element not found with Locator: /html/body/div[3]/footer/div/div/div[4]/a[2]/i and  LocatorType: xpath
+04/11/2020 03:05:45 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div[3]/footer/div/div/div[4]/a[2]/i LocatorType: xpath
+04/11/2020 03:05:48 AM - homepage - INFO: Element not found with Locator: /html/body/div/div/div[2]/div[2]/div/a[2]/h4 and  LocatorType: xpath
+04/11/2020 03:05:48 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div/div/div[2]/div[2]/div/a[2]/h4 LocatorType: xpath
+04/11/2020 03:08:20 AM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 03:08:20 AM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 03:08:21 AM - homepage - INFO: Element found with Locator: /html/body/div/div/nav/div/div/a[2] and  LocatorType: xpath
+04/11/2020 03:08:21 AM - homepage - INFO: Clicked on element with Locator: /html/body/div/div/nav/div/div/a[2] LocatorType: xpath
+04/11/2020 03:08:23 AM - homepage - INFO: Element found with Locator: Premium and  LocatorType: link
+04/11/2020 03:08:23 AM - homepage - INFO: Clicked on element with Locator: Premium LocatorType: link
+04/11/2020 03:08:24 AM - homepage - INFO: Element found with Locator: Download and  LocatorType: link
+04/11/2020 03:08:24 AM - homepage - INFO: Clicked on element with Locator: Download LocatorType: link
+04/11/2020 03:08:25 AM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 03:08:25 AM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 03:08:26 AM - homepage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 03:08:26 AM - homepage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 03:09:05 AM - homepage - INFO: Element found with Locator: /html/body/div/div/nav/div/div/a[2] and  LocatorType: xpath
+04/11/2020 03:09:06 AM - homepage - INFO: Clicked on element with Locator: /html/body/div/div/nav/div/div/a[2] LocatorType: xpath
+04/11/2020 03:09:07 AM - homepage - INFO: Element found with Locator: Premium and  LocatorType: link
+04/11/2020 03:09:07 AM - homepage - INFO: Clicked on element with Locator: Premium LocatorType: link
+04/11/2020 03:09:08 AM - homepage - INFO: Element found with Locator: Download and  LocatorType: link
+04/11/2020 03:09:08 AM - homepage - INFO: Clicked on element with Locator: Download LocatorType: link
+04/11/2020 03:09:09 AM - homepage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 03:09:09 AM - homepage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 03:09:10 AM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 03:09:11 AM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 03:11:36 AM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 03:11:36 AM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 03:11:37 AM - homepage - INFO: Element found with Locator: /html/body/div/div/nav/div/div/a[2] and  LocatorType: xpath
+04/11/2020 03:11:37 AM - homepage - INFO: Clicked on element with Locator: /html/body/div/div/nav/div/div/a[2] LocatorType: xpath
+04/11/2020 03:11:39 AM - homepage - INFO: Element found with Locator: Premium and  LocatorType: link
+04/11/2020 03:11:39 AM - homepage - INFO: Clicked on element with Locator: Premium LocatorType: link
+04/11/2020 03:11:40 AM - homepage - INFO: Element found with Locator: Download and  LocatorType: link
+04/11/2020 03:11:40 AM - homepage - INFO: Clicked on element with Locator: Download LocatorType: link
+04/11/2020 03:11:41 AM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 03:11:41 AM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 03:11:42 AM - homepage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 03:11:42 AM - homepage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 03:11:43 AM - homepage - INFO: Element found with Locator: /html/body/div/div/nav/div/div/a[2] and  LocatorType: xpath
+04/11/2020 03:11:43 AM - homepage - INFO: Clicked on element with Locator: /html/body/div/div/nav/div/div/a[2] LocatorType: xpath
+04/11/2020 03:11:44 AM - homepage - INFO: Element found with Locator: Premium and  LocatorType: link
+04/11/2020 03:11:44 AM - homepage - INFO: Clicked on element with Locator: Premium LocatorType: link
+04/11/2020 03:11:45 AM - homepage - INFO: Element found with Locator: Download and  LocatorType: link
+04/11/2020 03:11:45 AM - homepage - INFO: Clicked on element with Locator: Download LocatorType: link
+04/11/2020 03:11:46 AM - homepage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 03:11:46 AM - homepage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 03:11:47 AM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 03:11:48 AM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 11:42:04 AM - homepage - INFO: Element found with Locator: Download and  LocatorType: link
+04/11/2020 11:42:04 AM - homepage - INFO: Clicked on element with Locator: Download LocatorType: link
+04/11/2020 11:42:06 AM - homepage - INFO: Element not found with Locator:  try again  and  LocatorType: link
+04/11/2020 11:42:06 AM - homepage - INFO: Cannot click on the element with Locator:  try again  LocatorType: link
+04/11/2020 11:43:58 AM - homepage - INFO: Element found with Locator: Download and  LocatorType: link
+04/11/2020 11:43:58 AM - homepage - INFO: Clicked on element with Locator: Download LocatorType: link
+04/11/2020 11:43:58 AM - homepage - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div/div[3]/p[1]/u and  LocatorType: xpath
+04/11/2020 11:43:58 AM - homepage - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div/div[3]/p[1]/u LocatorType: xpath
+04/11/2020 11:44:19 AM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 11:44:19 AM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 11:44:19 AM - homepage - INFO: Element found with Locator: Terms and Conditions of Use and  LocatorType: link
+04/11/2020 11:44:19 AM - homepage - INFO: Clicked on element with Locator: Terms and Conditions of Use LocatorType: link
+04/11/2020 11:44:19 AM - homepage - INFO: Element found with Locator: Privacy Policy and  LocatorType: link
+04/11/2020 11:44:19 AM - homepage - INFO: Clicked on element with Locator: Privacy Policy LocatorType: link
+04/11/2020 11:48:16 AM - homepage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 11:48:16 AM - homepage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 11:48:18 AM - homepage - INFO: Element not found with Locator: /html/body/div/div/div[2]/div[4]/form/div[12]/div[1]/p[1]/a  and  LocatorType: xpath
+04/11/2020 11:48:18 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div/div/div[2]/div[4]/form/div[12]/div[1]/p[1]/a  LocatorType: xpath
+04/11/2020 11:48:18 AM - homepage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[8]/div[3]/p/a[2] and  LocatorType: xpath
+04/11/2020 11:48:18 AM - homepage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[8]/div[3]/p/a[2] LocatorType: xpath
+04/11/2020 11:53:23 AM - homepage - INFO: Element found with Locator: Download and  LocatorType: link
+04/11/2020 11:53:23 AM - homepage - INFO: Clicked on element with Locator: Download LocatorType: link
+04/11/2020 11:53:23 AM - homepage - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div/div[3]/p[1]/u and  LocatorType: xpath
+04/11/2020 11:53:23 AM - homepage - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div/div[3]/p[1]/u LocatorType: xpath
+04/11/2020 11:53:24 AM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 11:53:24 AM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 11:53:24 AM - homepage - INFO: Element found with Locator: Terms and Conditions of Use and  LocatorType: link
+04/11/2020 11:53:24 AM - homepage - INFO: Clicked on element with Locator: Terms and Conditions of Use LocatorType: link
+04/11/2020 11:53:24 AM - homepage - INFO: Element found with Locator: Privacy Policy and  LocatorType: link
+04/11/2020 11:53:24 AM - homepage - INFO: Clicked on element with Locator: Privacy Policy LocatorType: link
+04/11/2020 11:53:25 AM - homepage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 11:53:25 AM - homepage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 11:53:27 AM - homepage - INFO: Element not found with Locator: /html/body/div/div/div[2]/div[4]/form/div[12]/div[1]/p[1]/a  and  LocatorType: xpath
+04/11/2020 11:53:27 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div/div/div[2]/div[4]/form/div[12]/div[1]/p[1]/a  LocatorType: xpath
+04/11/2020 11:53:37 AM - homepage - INFO: Element not found with Locator: /html/body/div/div/div[2]/div[8]/div[3]/p/a[2] and  LocatorType: xpath
+04/11/2020 11:53:37 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div/div/div[2]/div[8]/div[3]/p/a[2] LocatorType: xpath
+04/11/2020 11:54:10 AM - homepage - INFO: Element found with Locator: Download and  LocatorType: link
+04/11/2020 11:54:10 AM - homepage - INFO: Clicked on element with Locator: Download LocatorType: link
+04/11/2020 11:54:10 AM - homepage - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div/div[3]/p[1]/u and  LocatorType: xpath
+04/11/2020 11:54:10 AM - homepage - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div/div[3]/p[1]/u LocatorType: xpath
+04/11/2020 11:54:11 AM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 11:54:11 AM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 11:54:11 AM - homepage - INFO: Element found with Locator: Terms and Conditions of Use and  LocatorType: link
+04/11/2020 11:54:11 AM - homepage - INFO: Clicked on element with Locator: Terms and Conditions of Use LocatorType: link
+04/11/2020 11:54:11 AM - homepage - INFO: Element found with Locator: Privacy Policy and  LocatorType: link
+04/11/2020 11:54:11 AM - homepage - INFO: Clicked on element with Locator: Privacy Policy LocatorType: link
+04/11/2020 11:54:12 AM - homepage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 11:54:13 AM - homepage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 11:54:15 AM - homepage - INFO: Element not found with Locator: /html/body/div/div/div[2]/div[4]/form/div[12]/div[1]/p[1]/a  and  LocatorType: xpath
+04/11/2020 11:54:15 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div/div/div[2]/div[4]/form/div[12]/div[1]/p[1]/a  LocatorType: xpath
+04/11/2020 11:54:15 AM - homepage - INFO: Element found with Locator: /html/body/div/div/div[2]/div[8]/div[3]/p/a[2] and  LocatorType: xpath
+04/11/2020 11:54:15 AM - homepage - INFO: Clicked on element with Locator: /html/body/div/div/div[2]/div[8]/div[3]/p/a[2] LocatorType: xpath
+04/11/2020 11:55:35 AM - homepage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 11:55:35 AM - homepage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 11:55:37 AM - homepage - INFO: Element not found with Locator: /html/body/div/div/div[2]/div[4]/form/div[12]/div[1]/p[1]/a  and  LocatorType: xpath
+04/11/2020 11:55:37 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div/div/div[2]/div[4]/form/div[12]/div[1]/p[1]/a  LocatorType: xpath
+04/11/2020 11:56:02 AM - homepage - INFO: Element not found with Locator: /html/body/div/div/div[2]/div[8]/div[3]/p/a[2] and  LocatorType: xpath
+04/11/2020 11:56:02 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div/div/div[2]/div[8]/div[3]/p/a[2] LocatorType: xpath
+04/11/2020 11:57:58 AM - homepage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 11:57:58 AM - homepage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 11:58:00 AM - homepage - INFO: Element not found with Locator: /html/body/div/div/div[2]/div[4]/form/div[12]/div[1]/p[1]/a  and  LocatorType: xpath
+04/11/2020 11:58:00 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div/div/div[2]/div[4]/form/div[12]/div[1]/p[1]/a  LocatorType: xpath
+04/11/2020 11:58:28 AM - homepage - INFO: Element found with Locator: Login and  LocatorType: link
+04/11/2020 11:58:28 AM - homepage - INFO: Clicked on element with Locator: Login LocatorType: link
+04/11/2020 11:58:30 AM - homepage - INFO: Element not found with Locator: /html/body/div/div/div[2]/div[4]/form/div[12]/div[1]/p[1]/a  and  LocatorType: xpath
+04/11/2020 11:58:30 AM - homepage - INFO: Cannot click on the element with Locator: /html/body/div/div/div[2]/div[4]/form/div[12]/div[1]/p[1]/a  LocatorType: xpath
+04/11/2020 12:00:06 PM - homepage - INFO: Element found with Locator: Download and  LocatorType: link
+04/11/2020 12:00:06 PM - homepage - INFO: Clicked on element with Locator: Download LocatorType: link
+04/11/2020 12:00:06 PM - homepage - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div/div[3]/p[1]/u and  LocatorType: xpath
+04/11/2020 12:00:06 PM - homepage - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div/div[3]/p[1]/u LocatorType: xpath
+04/11/2020 12:00:07 PM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 12:00:07 PM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 12:00:07 PM - homepage - INFO: Element found with Locator: Terms and Conditions of Use and  LocatorType: link
+04/11/2020 12:00:07 PM - homepage - INFO: Clicked on element with Locator: Terms and Conditions of Use LocatorType: link
+04/11/2020 12:00:07 PM - homepage - INFO: Element found with Locator: Privacy Policy and  LocatorType: link
+04/11/2020 12:00:07 PM - homepage - INFO: Clicked on element with Locator: Privacy Policy LocatorType: link
+04/11/2020 12:00:10 PM - homepage - INFO: Element not found with Locator: Premium and  LocatorType: link
+04/11/2020 12:00:10 PM - homepage - INFO: Cannot click on the element with Locator: Premium LocatorType: link
+04/11/2020 12:00:44 PM - homepage - INFO: Element found with Locator: Premium and  LocatorType: link
+04/11/2020 12:00:44 PM - homepage - INFO: Clicked on element with Locator: Premium LocatorType: link
+04/11/2020 12:01:20 PM - homepage - INFO: Element found with Locator: Download and  LocatorType: link
+04/11/2020 12:01:20 PM - homepage - INFO: Clicked on element with Locator: Download LocatorType: link
+04/11/2020 12:01:20 PM - homepage - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div/div[3]/p[1]/u and  LocatorType: xpath
+04/11/2020 12:01:20 PM - homepage - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div/div[3]/p[1]/u LocatorType: xpath
+04/11/2020 12:01:21 PM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 12:01:21 PM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 12:01:21 PM - homepage - INFO: Element found with Locator: Terms and Conditions of Use and  LocatorType: link
+04/11/2020 12:01:22 PM - homepage - INFO: Clicked on element with Locator: Terms and Conditions of Use LocatorType: link
+04/11/2020 12:01:22 PM - homepage - INFO: Element found with Locator: Privacy Policy and  LocatorType: link
+04/11/2020 12:01:22 PM - homepage - INFO: Clicked on element with Locator: Privacy Policy LocatorType: link
+04/11/2020 12:01:26 PM - homepage - INFO: Element not found with Locator: Premium and  LocatorType: link
+04/11/2020 12:01:26 PM - homepage - INFO: Cannot click on the element with Locator: Premium LocatorType: link
+04/11/2020 12:04:56 PM - homepage - INFO: Element found with Locator: Download and  LocatorType: link
+04/11/2020 12:04:56 PM - homepage - INFO: Clicked on element with Locator: Download LocatorType: link
+04/11/2020 12:04:56 PM - homepage - INFO: Element found with Locator: /html/body/div/div/div/div[1]/div/div[3]/p[1]/u and  LocatorType: xpath
+04/11/2020 12:04:56 PM - homepage - INFO: Clicked on element with Locator: /html/body/div/div/div/div[1]/div/div[3]/p[1]/u LocatorType: xpath
+04/11/2020 12:04:58 PM - homepage - INFO: Element found with Locator: Premium and  LocatorType: link
+04/11/2020 12:04:58 PM - homepage - INFO: Clicked on element with Locator: Premium LocatorType: link
+04/11/2020 12:04:58 PM - homepage - INFO: Element found with Locator: Sign-up and  LocatorType: link
+04/11/2020 12:04:58 PM - homepage - INFO: Clicked on element with Locator: Sign-up LocatorType: link
+04/11/2020 12:04:58 PM - homepage - INFO: Element found with Locator: Terms and Conditions of Use and  LocatorType: link
+04/11/2020 12:04:58 PM - homepage - INFO: Clicked on element with Locator: Terms and Conditions of Use LocatorType: link
+04/11/2020 12:04:58 PM - homepage - INFO: Element found with Locator: Privacy Policy and  LocatorType: link
+04/11/2020 12:04:58 PM - homepage - INFO: Clicked on element with Locator: Privacy Policy LocatorType: link

@@ -1,0 +1,212 @@
+04/11/2020 04:59:59 PM - homepage - INFO: Element found with Locator: login_button and  LocatorType: id
+04/11/2020 04:59:59 PM - homepage - INFO: Clicked on element with Locator: login_button LocatorType: id
+04/11/2020 05:00:00 PM - homepage - INFO: Element not found with Locator: signUp_button and  LocatorType: id
+04/11/2020 05:00:00 PM - homepage - INFO: Cannot click on the element with Locator: signUp_button LocatorType: id
+04/11/2020 05:00:01 PM - homepage - INFO: Element found with Locator: login_forget_password_button and  LocatorType: id
+04/11/2020 05:00:01 PM - homepage - INFO: Clicked on element with Locator: login_forget_password_button LocatorType: id
+04/11/2020 05:00:15 PM - signuppage_android - INFO: Element found with Locator: signUp_button and  LocatorType: id
+04/11/2020 05:00:15 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_button LocatorType: id
+04/11/2020 05:00:16 PM - signuppage_android - INFO: Element found with Locator: signUp_Email_editText and  LocatorType: id
+04/11/2020 05:00:16 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Email_editText LocatorType: id
+04/11/2020 05:00:17 PM - signuppage_android - INFO: Element found with Locator: signUp_email_Next_button and  LocatorType: id
+04/11/2020 05:00:17 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_email_Next_button LocatorType: id
+04/11/2020 05:00:17 PM - signuppage_android - INFO: Element found with Locator: signUp_Password_editText and  LocatorType: id
+04/11/2020 05:00:17 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Password_editText LocatorType: id
+04/11/2020 05:00:18 PM - signuppage_android - INFO: Element found with Locator: signUp_Password_confirm_editText and  LocatorType: id
+04/11/2020 05:00:18 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Password_confirm_editText LocatorType: id
+04/11/2020 05:00:19 PM - signuppage_android - INFO: Element found with Locator: signUp_password_Next_button and  LocatorType: id
+04/11/2020 05:00:19 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_password_Next_button LocatorType: id
+04/11/2020 05:00:20 PM - signuppage_android - INFO: Element found with Locator: signUp_dob_Next_button and  LocatorType: id
+04/11/2020 05:00:20 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_dob_Next_button LocatorType: id
+04/11/2020 05:00:20 PM - signuppage_android - INFO: Element found with Locator: signup_phone_number_text and  LocatorType: id
+04/11/2020 05:00:20 PM - signuppage_android - INFO: Sent Data on element with Locator: signup_phone_number_text LocatorType: id
+04/11/2020 05:00:21 PM - signuppage_android - INFO: Element found with Locator: signup_phone_number_confirm_button and  LocatorType: id
+04/11/2020 05:00:21 PM - signuppage_android - INFO: Clicked on element with Locator: signup_phone_number_confirm_button LocatorType: id
+04/11/2020 05:00:22 PM - signuppage_android - INFO: Element found with Locator: male_button and  LocatorType: id
+04/11/2020 05:00:22 PM - signuppage_android - INFO: Clicked on element with Locator: male_button LocatorType: id
+04/11/2020 05:00:22 PM - signuppage_android - INFO: Element found with Locator: signUp_Name_editText and  LocatorType: id
+04/11/2020 05:00:22 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Name_editText LocatorType: id
+04/11/2020 05:00:23 PM - signuppage_android - INFO: Element found with Locator: signUp_Name_Create_button and  LocatorType: id
+04/11/2020 05:00:23 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_Name_Create_button LocatorType: id
+04/11/2020 05:00:24 PM - Library - INFO: Element not found with Locator: login_button and  LocatorType: id
+04/11/2020 05:00:24 PM - Library - INFO: Cannot click on the element with Locator: login_button LocatorType: id
+04/11/2020 05:00:24 PM - Library - INFO: Element not found with Locator: Email_logIn_text and  LocatorType: id
+04/11/2020 05:00:24 PM - Library - INFO: Cannot send Data on the element with Locator: Email_logIn_text LocatorType: id
+04/11/2020 05:00:24 PM - Library - INFO: Element not found with Locator: password_login_editText and  LocatorType: id
+04/11/2020 05:00:24 PM - Library - INFO: Cannot send Data on the element with Locator: password_login_editText LocatorType: id
+04/11/2020 05:00:24 PM - Library - INFO: Element not found with Locator: login_button and  LocatorType: id
+04/11/2020 05:00:24 PM - Library - INFO: Cannot click on the element with Locator: login_button LocatorType: id
+04/11/2020 05:00:24 PM - Library - INFO: Element not found with Locator: com.example.pacify:id/nav_favorites and  LocatorType: id
+04/11/2020 05:00:24 PM - Library - INFO: Cannot click on the element with Locator: com.example.pacify:id/nav_favorites LocatorType: id
+04/11/2020 05:00:24 PM - Library - INFO: Element not found with Locator: logout_button and  LocatorType: id
+04/11/2020 05:00:24 PM - Library - INFO: Cannot click on the element with Locator: logout_button LocatorType: id
+04/11/2020 05:00:24 PM - Library - INFO: Element not found with Locator: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout[1]/android.widget.LinearLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[4]/android.widget.RelativeLayout and  LocatorType: xpath
+04/11/2020 05:00:24 PM - Library - INFO: Cannot click on the element with Locator: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout[1]/android.widget.LinearLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[4]/android.widget.RelativeLayout LocatorType: xpath
+04/11/2020 06:36:39 PM - homepage - INFO: Element found with Locator: login_button and  LocatorType: id
+04/11/2020 06:36:39 PM - homepage - INFO: Clicked on element with Locator: login_button LocatorType: id
+04/11/2020 06:36:40 PM - homepage - INFO: Element not found with Locator: signUp_button and  LocatorType: id
+04/11/2020 06:36:40 PM - homepage - INFO: Cannot click on the element with Locator: signUp_button LocatorType: id
+04/11/2020 06:36:52 PM - signuppage_android - INFO: Element found with Locator: signUp_button and  LocatorType: id
+04/11/2020 06:36:52 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_button LocatorType: id
+04/11/2020 06:36:53 PM - signuppage_android - INFO: Element found with Locator: signUp_Email_editText and  LocatorType: id
+04/11/2020 06:36:53 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Email_editText LocatorType: id
+04/11/2020 06:36:53 PM - signuppage_android - INFO: Element found with Locator: signUp_email_Next_button and  LocatorType: id
+04/11/2020 06:36:53 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_email_Next_button LocatorType: id
+04/11/2020 06:36:54 PM - signuppage_android - INFO: Element found with Locator: signUp_Password_editText and  LocatorType: id
+04/11/2020 06:36:54 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Password_editText LocatorType: id
+04/11/2020 06:36:55 PM - signuppage_android - INFO: Element found with Locator: signUp_Password_confirm_editText and  LocatorType: id
+04/11/2020 06:36:55 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Password_confirm_editText LocatorType: id
+04/11/2020 06:36:56 PM - signuppage_android - INFO: Element found with Locator: signUp_password_Next_button and  LocatorType: id
+04/11/2020 06:36:56 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_password_Next_button LocatorType: id
+04/11/2020 06:36:57 PM - signuppage_android - INFO: Element found with Locator: signUp_dob_Next_button and  LocatorType: id
+04/11/2020 06:36:57 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_dob_Next_button LocatorType: id
+04/11/2020 06:36:57 PM - signuppage_android - INFO: Element found with Locator: signup_phone_number_text and  LocatorType: id
+04/11/2020 06:36:57 PM - signuppage_android - INFO: Sent Data on element with Locator: signup_phone_number_text LocatorType: id
+04/11/2020 06:36:58 PM - signuppage_android - INFO: Element found with Locator: signup_phone_number_confirm_button and  LocatorType: id
+04/11/2020 06:36:58 PM - signuppage_android - INFO: Clicked on element with Locator: signup_phone_number_confirm_button LocatorType: id
+04/11/2020 06:36:58 PM - signuppage_android - INFO: Element found with Locator: male_button and  LocatorType: id
+04/11/2020 06:36:58 PM - signuppage_android - INFO: Clicked on element with Locator: male_button LocatorType: id
+04/11/2020 06:36:59 PM - signuppage_android - INFO: Element found with Locator: signUp_Name_editText and  LocatorType: id
+04/11/2020 06:36:59 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Name_editText LocatorType: id
+04/11/2020 06:37:00 PM - signuppage_android - INFO: Element found with Locator: signUp_Name_Create_button and  LocatorType: id
+04/11/2020 06:37:00 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_Name_Create_button LocatorType: id
+04/11/2020 06:37:00 PM - Library - INFO: Element not found with Locator: login_button and  LocatorType: id
+04/11/2020 06:37:00 PM - Library - INFO: Cannot click on the element with Locator: login_button LocatorType: id
+04/11/2020 06:37:01 PM - Library - INFO: Element not found with Locator: Email_logIn_text and  LocatorType: id
+04/11/2020 06:37:01 PM - Library - INFO: Cannot send Data on the element with Locator: Email_logIn_text LocatorType: id
+04/11/2020 06:37:01 PM - Library - INFO: Element not found with Locator: password_login_editText and  LocatorType: id
+04/11/2020 06:37:01 PM - Library - INFO: Cannot send Data on the element with Locator: password_login_editText LocatorType: id
+04/11/2020 06:37:01 PM - Library - INFO: Element not found with Locator: login_button and  LocatorType: id
+04/11/2020 06:37:01 PM - Library - INFO: Cannot click on the element with Locator: login_button LocatorType: id
+04/11/2020 06:37:01 PM - Library - INFO: Element not found with Locator: com.example.pacify:id/nav_favorites and  LocatorType: id
+04/11/2020 06:37:01 PM - Library - INFO: Cannot click on the element with Locator: com.example.pacify:id/nav_favorites LocatorType: id
+04/11/2020 06:37:01 PM - Library - INFO: Element not found with Locator: logout_button and  LocatorType: id
+04/11/2020 06:37:01 PM - Library - INFO: Cannot click on the element with Locator: logout_button LocatorType: id
+04/11/2020 06:37:01 PM - Library - INFO: Element not found with Locator: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout[1]/android.widget.LinearLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[4]/android.widget.RelativeLayout and  LocatorType: xpath
+04/11/2020 06:37:01 PM - Library - INFO: Cannot click on the element with Locator: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout[1]/android.widget.LinearLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[4]/android.widget.RelativeLayout LocatorType: xpath
+04/11/2020 06:39:14 PM - homepage - INFO: Element found with Locator: login_button and  LocatorType: id
+04/11/2020 06:39:14 PM - homepage - INFO: Clicked on element with Locator: login_button LocatorType: id
+04/11/2020 06:39:18 PM - homepage - INFO: Element found with Locator: signUp_button and  LocatorType: id
+04/11/2020 06:39:18 PM - homepage - INFO: Clicked on element with Locator: signUp_button LocatorType: id
+04/11/2020 06:39:31 PM - signuppage_android - INFO: Element found with Locator: signUp_button and  LocatorType: id
+04/11/2020 06:39:31 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_button LocatorType: id
+04/11/2020 06:39:32 PM - signuppage_android - INFO: Element found with Locator: signUp_Email_editText and  LocatorType: id
+04/11/2020 06:39:32 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Email_editText LocatorType: id
+04/11/2020 06:39:33 PM - signuppage_android - INFO: Element found with Locator: signUp_email_Next_button and  LocatorType: id
+04/11/2020 06:39:33 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_email_Next_button LocatorType: id
+04/11/2020 06:39:34 PM - signuppage_android - INFO: Element found with Locator: signUp_Password_editText and  LocatorType: id
+04/11/2020 06:39:34 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Password_editText LocatorType: id
+04/11/2020 06:39:34 PM - signuppage_android - INFO: Element found with Locator: signUp_Password_confirm_editText and  LocatorType: id
+04/11/2020 06:39:35 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Password_confirm_editText LocatorType: id
+04/11/2020 06:39:36 PM - signuppage_android - INFO: Element found with Locator: signUp_password_Next_button and  LocatorType: id
+04/11/2020 06:39:36 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_password_Next_button LocatorType: id
+04/11/2020 06:39:36 PM - signuppage_android - INFO: Element found with Locator: signUp_dob_Next_button and  LocatorType: id
+04/11/2020 06:39:36 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_dob_Next_button LocatorType: id
+04/11/2020 06:39:37 PM - signuppage_android - INFO: Element found with Locator: signup_phone_number_text and  LocatorType: id
+04/11/2020 06:39:37 PM - signuppage_android - INFO: Sent Data on element with Locator: signup_phone_number_text LocatorType: id
+04/11/2020 06:39:37 PM - signuppage_android - INFO: Element found with Locator: signup_phone_number_confirm_button and  LocatorType: id
+04/11/2020 06:39:37 PM - signuppage_android - INFO: Clicked on element with Locator: signup_phone_number_confirm_button LocatorType: id
+04/11/2020 06:39:38 PM - signuppage_android - INFO: Element found with Locator: male_button and  LocatorType: id
+04/11/2020 06:39:38 PM - signuppage_android - INFO: Clicked on element with Locator: male_button LocatorType: id
+04/11/2020 06:39:39 PM - signuppage_android - INFO: Element found with Locator: signUp_Name_editText and  LocatorType: id
+04/11/2020 06:39:39 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Name_editText LocatorType: id
+04/11/2020 06:39:39 PM - signuppage_android - INFO: Element found with Locator: signUp_Name_Create_button and  LocatorType: id
+04/11/2020 06:39:39 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_Name_Create_button LocatorType: id
+04/11/2020 06:39:40 PM - Library - INFO: Element not found with Locator: login_button and  LocatorType: id
+04/11/2020 06:39:40 PM - Library - INFO: Cannot click on the element with Locator: login_button LocatorType: id
+04/11/2020 06:39:40 PM - Library - INFO: Element not found with Locator: Email_logIn_text and  LocatorType: id
+04/11/2020 06:39:40 PM - Library - INFO: Cannot send Data on the element with Locator: Email_logIn_text LocatorType: id
+04/11/2020 06:39:40 PM - Library - INFO: Element not found with Locator: password_login_editText and  LocatorType: id
+04/11/2020 06:39:40 PM - Library - INFO: Cannot send Data on the element with Locator: password_login_editText LocatorType: id
+04/11/2020 06:39:40 PM - Library - INFO: Element not found with Locator: login_button and  LocatorType: id
+04/11/2020 06:39:40 PM - Library - INFO: Cannot click on the element with Locator: login_button LocatorType: id
+04/11/2020 06:39:41 PM - Library - INFO: Element not found with Locator: com.example.pacify:id/nav_favorites and  LocatorType: id
+04/11/2020 06:39:41 PM - Library - INFO: Cannot click on the element with Locator: com.example.pacify:id/nav_favorites LocatorType: id
+04/11/2020 06:39:41 PM - Library - INFO: Element not found with Locator: logout_button and  LocatorType: id
+04/11/2020 06:39:41 PM - Library - INFO: Cannot click on the element with Locator: logout_button LocatorType: id
+04/11/2020 06:39:41 PM - Library - INFO: Element not found with Locator: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout[1]/android.widget.LinearLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[4]/android.widget.RelativeLayout and  LocatorType: xpath
+04/11/2020 06:39:41 PM - Library - INFO: Cannot click on the element with Locator: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout[1]/android.widget.LinearLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[4]/android.widget.RelativeLayout LocatorType: xpath
+04/11/2020 06:51:57 PM - homepage - INFO: Element found with Locator: login_button and  LocatorType: id
+04/11/2020 06:51:57 PM - homepage - INFO: Clicked on element with Locator: login_button LocatorType: id
+04/11/2020 06:52:00 PM - homepage - INFO: Element found with Locator: signUp_button and  LocatorType: id
+04/11/2020 06:52:01 PM - homepage - INFO: Clicked on element with Locator: signUp_button LocatorType: id
+04/11/2020 06:52:12 PM - signuppage_android - INFO: Element found with Locator: signUp_button and  LocatorType: id
+04/11/2020 06:52:12 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_button LocatorType: id
+04/11/2020 06:52:13 PM - signuppage_android - INFO: Element found with Locator: signUp_Email_editText and  LocatorType: id
+04/11/2020 06:52:13 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Email_editText LocatorType: id
+04/11/2020 06:52:14 PM - signuppage_android - INFO: Element found with Locator: signUp_email_Next_button and  LocatorType: id
+04/11/2020 06:52:14 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_email_Next_button LocatorType: id
+04/11/2020 06:52:14 PM - signuppage_android - INFO: Element found with Locator: signUp_Password_editText and  LocatorType: id
+04/11/2020 06:52:14 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Password_editText LocatorType: id
+04/11/2020 06:52:15 PM - signuppage_android - INFO: Element found with Locator: signUp_Password_confirm_editText and  LocatorType: id
+04/11/2020 06:52:15 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Password_confirm_editText LocatorType: id
+04/11/2020 06:52:16 PM - signuppage_android - INFO: Element found with Locator: signUp_password_Next_button and  LocatorType: id
+04/11/2020 06:52:16 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_password_Next_button LocatorType: id
+04/11/2020 06:52:17 PM - signuppage_android - INFO: Element found with Locator: signUp_dob_Next_button and  LocatorType: id
+04/11/2020 06:52:17 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_dob_Next_button LocatorType: id
+04/11/2020 06:52:17 PM - signuppage_android - INFO: Element found with Locator: signup_phone_number_text and  LocatorType: id
+04/11/2020 06:52:17 PM - signuppage_android - INFO: Sent Data on element with Locator: signup_phone_number_text LocatorType: id
+04/11/2020 06:52:18 PM - signuppage_android - INFO: Element found with Locator: signup_phone_number_confirm_button and  LocatorType: id
+04/11/2020 06:52:18 PM - signuppage_android - INFO: Clicked on element with Locator: signup_phone_number_confirm_button LocatorType: id
+04/11/2020 06:52:19 PM - signuppage_android - INFO: Element found with Locator: male_button and  LocatorType: id
+04/11/2020 06:52:19 PM - signuppage_android - INFO: Clicked on element with Locator: male_button LocatorType: id
+04/11/2020 06:52:19 PM - signuppage_android - INFO: Element found with Locator: signUp_Name_editText and  LocatorType: id
+04/11/2020 06:52:19 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Name_editText LocatorType: id
+04/11/2020 06:52:20 PM - signuppage_android - INFO: Element found with Locator: signUp_Name_Create_button and  LocatorType: id
+04/11/2020 06:52:20 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_Name_Create_button LocatorType: id
+04/11/2020 06:52:21 PM - Library - INFO: Element not found with Locator: login_button and  LocatorType: id
+04/11/2020 06:52:21 PM - Library - INFO: Cannot click on the element with Locator: login_button LocatorType: id
+04/11/2020 06:52:21 PM - Library - INFO: Element not found with Locator: Email_logIn_text and  LocatorType: id
+04/11/2020 06:52:21 PM - Library - INFO: Cannot send Data on the element with Locator: Email_logIn_text LocatorType: id
+04/11/2020 06:52:21 PM - Library - INFO: Element not found with Locator: password_login_editText and  LocatorType: id
+04/11/2020 06:52:21 PM - Library - INFO: Cannot send Data on the element with Locator: password_login_editText LocatorType: id
+04/11/2020 06:52:21 PM - Library - INFO: Element not found with Locator: login_button and  LocatorType: id
+04/11/2020 06:52:21 PM - Library - INFO: Cannot click on the element with Locator: login_button LocatorType: id
+04/11/2020 06:52:21 PM - Library - INFO: Element not found with Locator: com.example.pacify:id/nav_favorites and  LocatorType: id
+04/11/2020 06:52:21 PM - Library - INFO: Cannot click on the element with Locator: com.example.pacify:id/nav_favorites LocatorType: id
+04/11/2020 06:52:21 PM - Library - INFO: Element not found with Locator: logout_button and  LocatorType: id
+04/11/2020 06:52:21 PM - Library - INFO: Cannot click on the element with Locator: logout_button LocatorType: id
+04/11/2020 06:52:21 PM - Library - INFO: Element not found with Locator: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout[1]/android.widget.LinearLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[4]/android.widget.RelativeLayout and  LocatorType: xpath
+04/11/2020 06:52:21 PM - Library - INFO: Cannot click on the element with Locator: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout[1]/android.widget.LinearLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[4]/android.widget.RelativeLayout LocatorType: xpath
+04/11/2020 07:05:04 PM - homepage - INFO: Element found with Locator: login_button and  LocatorType: id
+04/11/2020 07:05:04 PM - homepage - INFO: Clicked on element with Locator: login_button LocatorType: id
+04/11/2020 07:05:05 PM - homepage - INFO: Element found with Locator: login_forget_password_button and  LocatorType: id
+04/11/2020 07:05:05 PM - homepage - INFO: Clicked on element with Locator: login_forget_password_button LocatorType: id
+04/11/2020 07:05:16 PM - signuppage_android - INFO: Element found with Locator: signUp_button and  LocatorType: id
+04/11/2020 07:05:16 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_button LocatorType: id
+04/11/2020 07:05:17 PM - signuppage_android - INFO: Element found with Locator: signUp_Email_editText and  LocatorType: id
+04/11/2020 07:05:17 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Email_editText LocatorType: id
+04/11/2020 07:05:18 PM - signuppage_android - INFO: Element found with Locator: signUp_email_Next_button and  LocatorType: id
+04/11/2020 07:05:18 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_email_Next_button LocatorType: id
+04/11/2020 07:05:18 PM - signuppage_android - INFO: Element found with Locator: signUp_Password_editText and  LocatorType: id
+04/11/2020 07:05:18 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Password_editText LocatorType: id
+04/11/2020 07:05:19 PM - signuppage_android - INFO: Element found with Locator: signUp_Password_confirm_editText and  LocatorType: id
+04/11/2020 07:05:20 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Password_confirm_editText LocatorType: id
+04/11/2020 07:05:21 PM - signuppage_android - INFO: Element found with Locator: signUp_password_Next_button and  LocatorType: id
+04/11/2020 07:05:21 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_password_Next_button LocatorType: id
+04/11/2020 07:05:21 PM - signuppage_android - INFO: Element found with Locator: signUp_dob_Next_button and  LocatorType: id
+04/11/2020 07:05:21 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_dob_Next_button LocatorType: id
+04/11/2020 07:05:22 PM - signuppage_android - INFO: Element found with Locator: signup_phone_number_text and  LocatorType: id
+04/11/2020 07:05:22 PM - signuppage_android - INFO: Sent Data on element with Locator: signup_phone_number_text LocatorType: id
+04/11/2020 07:05:22 PM - signuppage_android - INFO: Element found with Locator: signup_phone_number_confirm_button and  LocatorType: id
+04/11/2020 07:05:22 PM - signuppage_android - INFO: Clicked on element with Locator: signup_phone_number_confirm_button LocatorType: id
+04/11/2020 07:05:23 PM - signuppage_android - INFO: Element found with Locator: male_button and  LocatorType: id
+04/11/2020 07:05:23 PM - signuppage_android - INFO: Clicked on element with Locator: male_button LocatorType: id
+04/11/2020 07:05:24 PM - signuppage_android - INFO: Element found with Locator: signUp_Name_editText and  LocatorType: id
+04/11/2020 07:05:24 PM - signuppage_android - INFO: Sent Data on element with Locator: signUp_Name_editText LocatorType: id
+04/11/2020 07:05:24 PM - signuppage_android - INFO: Element found with Locator: signUp_Name_Create_button and  LocatorType: id
+04/11/2020 07:05:24 PM - signuppage_android - INFO: Clicked on element with Locator: signUp_Name_Create_button LocatorType: id
+04/11/2020 07:05:25 PM - Library - INFO: Element not found with Locator: login_button and  LocatorType: id
+04/11/2020 07:05:25 PM - Library - INFO: Cannot click on the element with Locator: login_button LocatorType: id
+04/11/2020 07:05:25 PM - Library - INFO: Element not found with Locator: Email_logIn_text and  LocatorType: id
+04/11/2020 07:05:25 PM - Library - INFO: Cannot send Data on the element with Locator: Email_logIn_text LocatorType: id
+04/11/2020 07:05:25 PM - Library - INFO: Element not found with Locator: password_login_editText and  LocatorType: id
+04/11/2020 07:05:25 PM - Library - INFO: Cannot send Data on the element with Locator: password_login_editText LocatorType: id
+04/11/2020 07:05:25 PM - Library - INFO: Element not found with Locator: login_button and  LocatorType: id
+04/11/2020 07:05:25 PM - Library - INFO: Cannot click on the element with Locator: login_button LocatorType: id
+04/11/2020 07:05:26 PM - Library - INFO: Element not found with Locator: com.example.pacify:id/nav_favorites and  LocatorType: id
+04/11/2020 07:05:26 PM - Library - INFO: Cannot click on the element with Locator: com.example.pacify:id/nav_favorites LocatorType: id
+04/11/2020 07:05:26 PM - Library - INFO: Element not found with Locator: logout_button and  LocatorType: id
+04/11/2020 07:05:26 PM - Library - INFO: Cannot click on the element with Locator: logout_button LocatorType: id
+04/11/2020 07:05:26 PM - Library - INFO: Element not found with Locator: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout[1]/android.widget.LinearLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[4]/android.widget.RelativeLayout and  LocatorType: xpath
+04/11/2020 07:05:26 PM - Library - INFO: Cannot click on the element with Locator: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.FrameLayout[1]/android.widget.LinearLayout/android.widget.FrameLayout/androidx.recyclerview.widget.RecyclerView/android.widget.LinearLayout[4]/android.widget.RelativeLayout LocatorType: xpath
